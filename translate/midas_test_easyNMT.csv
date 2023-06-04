@@ -1,0 +1,1297 @@
+,text,joint_labels,en_to_ru1
+2313,do you enjoy traveling : EMPTY > yep,pos_answer,Вы любите путешествовать:% 3
+2089,what do you think is the best acting performance of all time : EMPTY > i'm sorry,apology,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3"
+761,have you read any good books recently : EMPTY > no,neg_answer,читали ли вы в последнее время хорошие книги:% 3
+829,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+1961,what do you think : EMPTY > very cool,appreciation,Что вы думаете :% 3 очень круто
+194,have you ever seen melanie martinez perform live in  concert : EMPTY > no,neg_answer,"Вы когда-нибудь видели, как Мелани Мартинез выступает в прямом эфире:% 3"
+1084,would you like to know more : yes > sure,pos_answer,Вы хотите знать больше: да > конечно
+1071,have you ever had a pet : EMPTY > no,neg_answer,У тебя когда-нибудь был питомец:% 3
+1684,which two teams do you want to see in the next nba finals : EMPTY > what's more,open_question_factual,которые две команды вы хотите увидеть в следующих финалах Nba :% 3
+173,what do you think : EMPTY > that's cool,comment,Что вы думаете :% 3
+2491,here are some highlights : EMPTY > okay,back-channeling,Вот некоторые моменты:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 
+1815,do you want to tell me your name : EMPTY > ryan,statement,Вы хотите назвать свое имя:% 3 rian
+1709,let's see if i know it : EMPTY > definitely,abandon,"Давайте посмотрим, знаю ли я это:% 3"
+414,and geography : EMPTY > do you have any other names,yes_no_question,и географии:% 3
+1957,panoramic views london and madame tussauds london : EMPTY > who,abandon,Панорамный вид на Лондон и мадам Туссос Лондон:% 3
+44,would you like to talk about a different or new topic : turn off the > let's chat bull,command,Выключите « болтовню »
+565,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+1928,only style remains the same : fashion is amazing > i love it,opinion,только стиль остается прежним: мода удивительна > я люблю его
+1011,wanna know something interesting about it : EMPTY > no,neg_answer;command,Хочется узнать кое-что интересное об этом:% 3
+2097,have you seen any movies recently : EMPTY > do you know who you are talking to,yes_no_question,Вы видели фильмы в последнее время:
+705,can you say that one more time : EMPTY > i gotta go,statement,"Вы можете сказать, что еще раз:% 3"
+1406,this is a consolidated meagathread : EMPTY > wow,back-channeling,Это сводный меагафрит:% 3
+2305,can we talk about some other topics : oh > way over,abandon,Мы можем поговорить о других темах: oh >
+1572,just say stop : okay > that was pleasure chatting with you,opinion,"Просто скажи ""стоп"": ОК > было приятно поболтать с тобой"
+1725,do you want to talk about it : EMPTY > yes,pos_answer;command,Вы хотите поговорить об этом:% 3
+1325,which character in the movie would you most like to meet in real life : EMPTY > what is a cube one of the que- bots or whatever,open_question_factual,"Какой персонаж в фильме вы больше всего хотели бы встретиться в реальной жизни:% 3, что куб один из ква-ботов или что-то в этом роде"
+1948,what's the name of your favorite movie : EMPTY > let's chat,command,как называется ваш любимый фильм:% 3
+298,what book genre is your favorite : EMPTY > purple,opinion,Какой жанр книги ваш любимый :% 3 пурпурный
+1189,did you know that : yup > zendaya was in gymnastics for three years,statement,"Ты знал, что : Yu  > zendaya была в гимнастике три года"
+2270,please : EMPTY > what do you do,open_question_factual,Пожалуйста:% 3
+965,what character do you feel is most similar to you in that book : EMPTY > the train he could,abandon,что вы чувствуете больше всего похоже на вас в этой книге :% 3
+845,would you like to keep talking about music : EMPTY > no,neg_answer;command,Вы хотите продолжить разговор о музыке:% 3
+175,what's the name of your favorite book : i sit by twenty eight > oh,hold,как называется твоя любимая книга: я сижу на двадцать восемь > о
+1550,do you enjoy traveling : EMPTY > yes,pos_answer,или любите путешествовать :% 3
+73,would you like you talk about golgo matsumoto instead of our current topic : EMPTY > no,neg_answer;command,Вы хотите поговорить о гольго матсумото вместо нашей текущей темы:% 3
+170,which characters did you like least in that book : EMPTY > i like the mom in the teacher list,opinion,Какие персонажи вам нравились меньше всего в этой книге :% 3 Мне нравится мама в списке учителей
+861,can you please repeat that : imagine > a the america has a lot of their a great place to see,statement,"Вы можете повторить, что: представьте > Америка имеет много места, чтобы увидеть"
+1381,they scare my creators too : okay > stop,closing,Они пугают и моих создателей: ОК > остановитесь
+756,are you still playing fallout 4 often these days : EMPTY > not at all,neg_answer,Вы все еще играете в осадки 4 часто в наши дни:% 3
+838,the 1992 film miracle beach with scotty mckay played by dean cameron : EMPTY > no,neg_answer,"Кино-шоу 1992 года с песней ""Скотти Маккей"", которую играл декан Кэмерон:% 3"
+1965,do you want to tell me your name : EMPTY > jessica,statement,Вы хотите назвать свое имя:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /      
+862,do you want to tell me your name : EMPTY > no,neg_answer,Вы хотите назвать мне ваше имя:% 3
+2370,what is the hardest position to play in baseball : EMPTY > no,neg_answer,", в котором труднее всего играть в бейсболе :% 3"
+856,and i love to read when i'm not chatting : EMPTY > what's your favorite book,open_question_opinion,"и я люблю читать, когда я не болтаю:"
+916,do you want to tell me your name : EMPTY > tom,statement,Вы хотите назвать свое имя:% 3
+2472,i thought it is cool toodo you prefer to watch movies in the theater or at home : EMPTY > i don't know,other_answers,"Я думал, что это круто, что ты предпочитаешь смотреть фильмы в театре или дома:"
+56,do you want to tell me your name : EMPTY > no,neg_answer,Вы хотите назвать мне ваше имя:% 3
+2287,let's talk again soon : EMPTY > stop,closing,Давайте поговорим позже:% 3
+211,dogs are great pets : yeah > they are,comment,Собаки - отличные животные: да > они
+1735,can you say it again please : EMPTY > rating,statement,"Вы можете повторить это, пожалуйста:% 3"
+582,do you want to hear more : EMPTY > yes,pos_answer;command,вы хотите услышать больше:% 3
+759,an alexa social bot is talking to you : EMPTY > what about the,abandon,Alexa social bot говорит с вами:
+2495,can you believe that : EMPTY > yeah,pos_answer,"Вы можете поверить, что:% 3"
+368,i never had pets but i have always wondered what it feels like to have one : EMPTY > four thirty a.m.,abandon,"У меня никогда не было животных, но я всегда думал, каково это, иметь одну: помноженное > четыре тридцать утра."
+2129,if you could be any animal in the world what would you be : i would be a ladybug > i can fly and i could eat leaves david's all sorts of stuff like that,statement,"Если бы ты мог быть любым животным в мире, кем бы ты был: я был бы божьим коровкой > я мог бы летать и я мог бы есть всякие вещи Дэвида, подобные тому,"
+2581,do you like to read : not really > i love no,pos_answer,Вы любите читать: не совсем > я люблю нет
+70,what do you think you've learned from traveling : there's many beautiful sights > and even if you don't like the place,opinion,Что вы узнали из путешествия? Есть много красивых достопримечательностей > и даже если вам не нравится это место
+949,would you like you talk about william hurt instead of our current topic : EMPTY > no,neg_answer;command,"Вы хотите поговорить о Вильяме больно, а не о нашей теме:% 3"
+2217,has always played in the more affluent end of the market : i'm not a big fan of apple > how about you,open_question_opinion,всегда играл в более богатом конце рынка : Я не большой фанат яблока > как насчет тебя
+618,isn't that interesting : EMPTY > yes,pos_answer,не так ли интересно :% 3 / да
+900,who would you cast as the main character : i don't > not even,abandon,Кого бы вы назвали главным персонажем: Я не  > даже не
+1807,do you want to tell me your name : EMPTY > my name is william,statement,Вы хотите сказать мне ваше имя:% 3
+1128,just tell me the name of a movie you want me to talk about : EMPTY > matilda,command;statement,"Просто скажи мне название фильма, о котором ты хочешь, чтобы я говорила:"
+2137,isn't this interesting : EMPTY > yes,pos_answer,не так ли интересно:% 3
+2477,who's your favorite author : EMPTY > joseph smith,opinion,который ваш любимый автор: Weibo > Joseph smith
+1793,don't you think so : EMPTY > no,neg_answer,Вы так не думаете:% 3
+1146,do you like to read : EMPTY > yes,pos_answer,Вы любите читать :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  / / / / / / / / /  /    
+1244,any thoughts : EMPTY > similar in the way that they did the world with a. i. in technology,opinion,"любые мысли: помноженные > похожие в том, как они делали мир с а. т.е. в технологии"
+1105,who's your favorite author : EMPTY > if you wanna slater,opinion,"который ваш любимый автор:% 3, если вы хотите слайдер"
+2275,do you think people read more or less books now than they did 50 years ago : EMPTY > yes,pos_answer,"Вы думаете, что люди сейчас читают больше или меньше книг, чем 50 лет назад:% 3"
+1362,thanks : EMPTY > the name of the movie is called nuts and the actress that starred in it was barbara streisand,statement,"Спасибо: «Возвращение» — название фильма называется орехами, а актриса, которая в нем была звездой, — Барбара Стрейзанд."
+282,let me know if you wanna chat about something else : EMPTY > let's talk about politics,command,"Дайте мне знать, если хотите поговорить о чем-то другом: положим на « давайте поговорим о политике»"
+567,ooh i wanted to ask youdo you ever watch sports : EMPTY > no,neg_answer,"Ооо, я хотел спросить тебя когда-нибудь смотреть спорт:% 3"
+432,do you want to keep talking about politics news or some other type of news : EMPTY > yes,pos_answer;command,Вы хотите продолжать говорить о политических новостях или о каком-либо другом виде новостей:% 3
+2230,do you enjoy traveling : yes > i did,pos_answer;statement,Вам нравится путешествовать: да > я сделал
+1726,who's your favorite author : EMPTY > j. k. rowling,opinion,который ваш любимый автор:% 3
+819,have you read any good books recently : EMPTY > yes,pos_answer,читали ли вы в последнее время хорошие книги:% 3
+210,exam season is coming up and i definitely need the meds but they make me crave cigarettes like crazy : EMPTY > okay,back-channeling,"Сезон экзаменов приближается, и мне определенно нужны лекарства, но они заставляют меня жаждать сигарет, как сумасшедший:"
+650,how about just chating about music : EMPTY > no,neg_answer;command,Как насчет просто болтать о музыке:% 3
+1789,any thoughts : nah > told that before,opinion,любые мысли: na > говорили это до
+498,which characters did you like least in that book : EMPTY > all of them,other_answers,Какие персонажи вам нравились меньше всего в этой книге: положите > все из них
+1945,would you mind telling me more : i've never played the car > i've never played the video game of pok_mon,statement,Не могли бы вы сказать мне больше: я никогда не играл в машину > Я никогда не играл в видеоигра пок_мон
+2111,can you tell me even more : EMPTY > it's not a game,statement,Вы можете сказать мне еще больше:% 3 это не игра
+2376,interesting : EMPTY > yeah,pos_answer,интересный :% 3
+764,interesting : EMPTY > no,neg_answer,интересный :% 3
+2078,what do you want to talk about : EMPTY > french bulldogs,command;statement,о чем вы хотите поговорить:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /...............................................................................................................................
+564,did i get that right : change > topic,command,"Я правильно поняла, что: изменение > тема"
+2413,can you clarify that for me : no > i can't,neg_answer;statement,"Вы можете уточнить, что для меня: нет > я не могу"
+407,do you want to tell me your name : EMPTY > my name is charlie,statement,Вы хотите сказать мне ваше имя:
+1137,i wonder if i've seen it too : EMPTY > who do you have any blood,yes_no_question,"Интересно, видел ли я его тоже: «Аннекс > у кого есть кровь?"
+1920,do you prefer physical books or e-books : EMPTY > physical,opinion,Вы предпочитаете физические книги или электронные книги:% 3
+662,wanna talk about traveling : EMPTY > no,neg_answer;command,Хочет поговорить о путешествиях:% 3
+2039,do you like to read a lot of books : EMPTY > no,neg_answer,Вы любите читать много книг:% 3
+367,can you please say the book name again : EMPTY > doctor seuss,opinion,Вы можете повторить имя книги:% 3
+679,where was the last place you traveled : oh yeah > i went to their at the canadian rocky,statement,где ты последний раз путешествовала: о да > я пошла к ним в канадианский каучук
+2573,what would it be : that's not the book > i said,statement,что бы это было : это не книга > я сказал
+1736,it's coming soon : EMPTY > what's your name,open_question_factual,Скоро будет:
+354,what would it be : EMPTY > i'll be to make it really better,opinion,что это будет :% 3
+1620,don't you think so : EMPTY > yeah,pos_answer,"Не думаешь ли ты, что:"
+43,but i'm different : EMPTY > oh,hold,Но я другой:% 3 о
+2455,what is the hardest position to play in baseball : EMPTY > thank you,thanking,", в чем труднее всего играть в бейсболе :% 3"
+528,what would you say is your favorite feature or do you not have one yet : EMPTY > i do not have one yet,other_answers,"что вы скажете, ваша любимая функция или у вас еще нет:% 3"
+1222,what would you imagine to celebrate on national drink beer day : EMPTY > people drinking beer,opinion,"Что вы себе представляете, чтобы отметить в национальный день пива : : ~ люди пьют пиво ♫"
+1377,can you believe that : no > yeah,back-channeling,"Вы можете поверить, что: нет > да"
+613,do you want more like these : EMPTY > huh,hold,Вы хотите больше таких:% 3
+874,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+1939,who's your favorite author : EMPTY > mary doria russell,opinion,который ваш любимый автор: Weibo > Мэри Дориа Расселл
+817,tamarado you ever watch sports : EMPTY > yes,pos_answer,"Тамарадо, ты когда-либо смотрела спорт: play > да"
+1737,what pet do you have : EMPTY > i have three dogs one pitbull to chihuahua,statement,Что у вас есть питомец: подвздошная > у меня три собаки одна питбуль для чихуахуа
+2212,would you like to talk about it now : EMPTY > how's your day going,open_question_opinion,Вы хотите поговорить об этом сейчас :
+1660,can you please say the movie name again clearly : EMPTY > change topics,command,Вы можете сказать имя фильма снова ясно :% 3 изменения темы
+1429,just tell me the name of a book you want me to talk about : EMPTY > star wars,command;statement,"Просто скажи мне название книги, о которой ты хочешь, чтобы я говорил:"
+2507,what would you imagine to celebrate on national drink beer day : EMPTY > being alive,opinion,"что вы представляете, чтобы отметить в национальный день пива: «Возрождение »"
+693,don't you think so : EMPTY > sometimes,other_answers,"не думаешь ли ты, что: подсказка > иногда"
+1562,what do you think is the best acting performance of all time : EMPTY > i think it's the nutcracker,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3 / я думаю, что это хуесос"
+2218,anything came across your mind : EMPTY > alexa stop,closing,что-то пришло в голову:% 3
+1048,or do you enjoy splurging a little while on vacation : EMPTY > if it's in my budget,statement,"или тебе нравится немного размораживаться в отпуске:% 3, если это в моем бюджете"
+1845,would you like to hear more : EMPTY > yes,pos_answer;command,Хотели бы вы услышать больше:% 3
+433,just say stop : EMPTY > alexa stop,closing,Просто скажи стоп:% 3
+2406,are you interested in sports : EMPTY > yeah,back-channeling,Вы интересуетесь спортом:% 3
+1187,do you want to learn more stories like these : EMPTY > talk about golden retrievers,command,Вы хотите узнать больше таких историй:% 3
+1340,weird sound when you remembered something embarrassing : EMPTY > yes,pos_answer,"Странный звук, когда вы вспомнили что-то неловкое:% 3"
+1437,its a new experience in a new place either way : EMPTY > do you have any pets,yes_no_question,"Это новый опыт в новом месте в любом случае: « Подождите, есть ли у вас животные? »"
+1813,are you talking about the movie la cartographe : no > no,neg_answer,"Вы говорите о фильме ""Ла картография"": нет > нет"
+2120,what's your favorite movie with michael myers : EMPTY > any of the awesome power movies,opinion,какой твой любимый фильм с Майклом Майерсом:
+530,have you heard it : EMPTY > my daughter,statement,Слышал ли ты это:
+1712,have you ever stared at your phone smiling like an idiot while texting with someone : EMPTY > what was the question,open_question_factual,"Ты когда-нибудь смотрел на свой телефон улыбаясь, как идиот, когда писал кому-то:"
+1872,i haven't thought about that before : she germany surrendered today on september > twenty eight,statement,Я не думал об этом раньше: она сдалась сегодня на септембере > двадцать восемь
+2095,wanna know a fun fact about it : EMPTY > do you know any jewish holidays,command;yes_no_question,"Хотите узнать забавный факт: « Подождите, вы знаете какие-нибудь еврейские праздники? »"
+221,have you read any good books recently : EMPTY > tarzan,pos_answer;statement,читали ли вы в последнее время хорошие книги:% 3 tarazan
+2187,i'm so excited to hear it : EMPTY > i don't know yet,other_answers,Я так рада слышать это: «Возвращайся к нам »
+495,the 2016 film the magnificent seven with sam chisolm played by denzel washington : EMPTY > no,neg_answer,"фильм 2016 года, величественный 7 с Сэмом Чисолом, сыгранным денцелью Wailton :% 3"
+809,have you read any good books recently : yes > there is a book called running breathless,statement,"Вы читали в последнее время хорошие книги: да > существует книга, называемая ""Бежающая без дыхания"""
+2293,both his personal stats and team performance support him to win mvp this year : EMPTY > can we talk about something else,command;yes_no_question,"И личные данные, и результаты работы команды поддерживают его в том, чтобы выиграть MVP в этом году :% 3"
+602,can you believe that : EMPTY > i pharrell,opinion,"Вы можете поверить, что :% 3"
+649,any thoughts : EMPTY > yes,pos_answer,любые мысли:% 3
+1730,have you read any good books recently : actually > naked lunch by,statement,Вы читали в последнее время хорошие книги: : ~ обнаженный обед
+2523,what pet do you have : EMPTY > stop,closing,Что у вас есть питомец:% 3
+596,period : EMPTY > have a conversation with me,command,"период: « Подождите, пожалуйста, »"
+782,perhaps i've seen it : EMPTY > shrek,opinion,"Возможно, я видела это:% 3"
+907,do you still want to continue our conversation about movies : EMPTY > music star,command;statement,Вы все еще хотите продолжить наш разговор о фильмах:% 3 — музыкальная звезда
+393,who do you think is the best player in nba right now : EMPTY > i forgot,statement,"Кто, по-вашему, лучший игрок в НБА сейчас :% 3"
+1889,let's see if i know it : EMPTY > the avengers,opinion,"Давайте посмотрим, знаю ли я это: помни > мстителей"
+450,which teams do you think are the favorites for super bowl 2019 : EMPTY > redskins and patriots,opinion,"какие команды, как вы думаете, любимые для супер-миски 2019 :% > красные и патриоты"
+2118,cats are great pets : EMPTY > yes,back-channeling,Кошки - великие животные:% 3
+1809,what's the name of your favorite movie : EMPTY > my favorite movie is,abandon,как называется ваш любимый фильм:
+2054,who is your celebrity crush : EMPTY > tom cruise,opinion,Кто твоя знаменитость влюблена: помесь > круиз Тома
+903,are you scared of any animals : EMPTY > alexa stop,closing,Боишься ли ты любых животных:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /......................................................................................
+178,i never had pets but i have always wondered what it feels like to have one : EMPTY > it feels sad when they die,opinion,"У меня никогда не было животных, но я всегда думала, каково это, иметь одну: подвеска > это грустно, когда они умирают"
+508,i haven't thought about that before : EMPTY > will you please spread your legs for me,yes_no_question,"Я не думал об этом раньше: «Возьмите меня на место, пожалуйста, расставьте ноги»."
+93,what do you think : EMPTY > no,neg_answer,Что вы думаете :% 3
+2466,do you still want to talk about movies : yes > recommend a movie for me,command,Вы все еще хотите поговорить о фильмах: да > рекомендовать фильм для меня
+289,what would you like to talk about : EMPTY > let's talk about harry potter,command,о чем бы вы хотели поговорить:% 3
+1446,what do you think : EMPTY > that's cool,comment,Что вы думаете :% 3
+2397,do you want to continue our previous chat : EMPTY > no more jokes,command,Вы хотите продолжить наш предыдущий разговор:% 3 больше никаких шуток
+134,i can only look at animal videos online : i guess > but i guess it's kind of cool,comment,"Я могу смотреть только видео животных онлайн: я думаю > но я думаю, это круто"
+1971,could you tell me what music genre you like : EMPTY > country,opinion,"Вы не могли бы мне сказать, какая музыка вам нравится :% 3 страна"
+869,who's your favorite actor or actress : EMPTY > jack black,opinion,который ваш любимый актёр или актриса:% 3 джек черный
+931,have you ever hoped that there was some ability you hadn't discovered yet that you were just naturally great at : no > i have to do,statement,"Вы когда-нибудь надеялись, что вы не обнаружили еще какой-то способности, что вы просто естественно хороши в: нет > я должен сделать"
+1593,would you be interested to talk about national coffee day : EMPTY > national coffee day,command;statement,Не могли бы вы рассказать о национальном дне кофе:% 3
+1161,what did you like best about that movie : EMPTY > i did,statement,Что тебе больше всего понравилось в фильме:
+188,it was released in 2015 and features tom kenny as spongebob / gary / agreeable mob member / waffle voice : i was wondering > do you have a mom,yes_no_question,В 2015 году он был выпущен и называет Тома Кенни губкой / / гар/приятный член мафии / голос вафля : Я хотел бы знать > есть ли у вас мама
+1451,have you heard of maroon 5 : yeah > who hasn't,opinion,Вы слышали о марун 5: да > который не знает
+2442,have you seen any good movies recently : EMPTY > what did you tell me,open_question_factual,Видели ли вы в последнее время хорошие фильмы:
+1271,do you want to tell me your name : EMPTY > my name is kevin,statement,Вы хотите сказать мне ваше имя:
+2009,isn't that interesting : EMPTY > huh,back-channeling,не так уж и интересно:% 3
+518,fultondo you ever watch sports : EMPTY > yes,pos_answer,"Фултон, ты когда-нибудь смотришь спорт:% 3"
+2259,what's the name of your dog : EMPTY > bailey,statement,как зовут вашу собаку:% 3
+196,want to know another : EMPTY > no,neg_answer;command,Хочет знать другое:% 3
+1263,do you want to tell me your name : sure > gary,statement,Вы хотите сказать мне ваше имя: : kone > Gary
+1378,i'm a cool computer : EMPTY > where can i hide a body,open_question_opinion,Я крутой компьютер:% 3 где я могу спрятать тело
+1285,do you want to chat about something else : EMPTY > let's shade on the water off the wall to the shape of the water,command,Вы хотите поговорить о чем-то другом: полотенце > давайте оттеним воду от стены до формы воды
+1093,i think i heard wrong : EMPTY > the savage is loose,opinion,"Я думаю, что слышал неправильно: поклонись > дикарь свободен"
+2492,i just like it : EMPTY > you can actually see a computer,statement,Мне просто нравится:% 3 — вы можете увидеть компьютер.
+2504,what's the name of your favorite book : mine > kampf,opinion,как называется твоя любимая книга: моя > кампф
+937,what pet do you have : EMPTY > i have,abandon,Что у вас есть питомец:% 3
+1018,can you believe that : yes > but i wasn't talking about the movie ghost,statement,"Вы можете поверить, что: да > но я не говорил о кинопризраке"
+1601,i find its sound really soothing : EMPTY > sauce,abandon,Я нахожу его звук очень успокаивающим: подсказка > соус
+1565,maybe i know it : EMPTY > aladdin,opinion,"может быть, я знаю это:% 3"
+1702,would you ever live there : EMPTY > yes,pos_answer,Вы когда-нибудь будете жить там:% 3
+1364,don't you think that's cool : EMPTY > yes,pos_answer,"Не думаешь, что это круто?"
+789,do you mind asking the same question with a location : so that was the last i heard > i'm sure she's home in bed now,statement,"Вы не против задать тот же вопрос с местом: это был последний, что я слышал > я уверен, что она дома в постели сейчас"
+1477,do you want to tell me your name : EMPTY > yes,pos_answer,Вы хотите назвать свое имя:% 3
+1582,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+2555,what do you think : EMPTY > alexa turn off,closing,Что вы думаете :% 3
+554,i love hearing what you have to say : EMPTY > yeah,back-channeling,"Мне нравится слышать, что ты говоришь:"
+1653,do you want to tell me your name : i'm brett > what's your name,open_question_factual,Вы хотите сказать мне ваше имя : Я бретт > как ваше имя
+1655,can you tell me more about it : EMPTY > put,abandon,Вы можете рассказать мне больше об этом:% 3
+1089,do you think so : yeah > i guess,opinion,Ты так думаешь: да > я думаю
+239,how would you feel : EMPTY > sad,opinion,Как бы вы себя чувствовали: « Положи »
+521,could you share more with me : EMPTY > he want and the big balloon around the world in eighty days,statement,Вы можете поделиться со мной еще: «Вот он хочет » и большой шарик вокруг мира за 80 дней
+1760,how important is music in your life : oh > one alarm,abandon,Как важна музыка в вашей жизни: о > одна тревога
+1514,let's see if i know it : EMPTY > you're gay,comment,"Посмотрим, знаю ли я это:"
+1817,i have never tried swimming : EMPTY > are you afraid of water well water hurt you,yes_no_question,"Я никогда не пробовал плавать: помесь > боишься ли ты воды колодца, ранившей тебя"
+1453,what is it : yeah > good movie,statement,Что это? Да > хороший фильм
+2468,what's the name of your favorite book : EMPTY > i'm not sure,other_answers,как называется ваша любимая книга:% 3
+1836,do you want to tell me your name : EMPTY > maddie,statement,Не хочешь сказать мне свое имя:% 3
+168,you play any games on nintendo : yes > are you still have a nintendo wii,yes_no_question,Вы играете в игры на nintendo: да > у вас все еще есть nintendo wii
+2250,did you find that interesting : yes > i think so,pos_answer;opinion,"Вы находите это интересным: да > я думаю, что да"
+2533,would you like you talk about meg ryan instead of our current topic : EMPTY > sure,pos_answer;command,Вы хотите поговорить о Мэг Райан вместо нашей текущей темы:% 3
+1055,do you want to tell me your name : hi > my name is tom,statement,Вы хотите сказать мне ваше имя : he  > моё имя Том
+1034,this is american's passion : hey > i'm done talking with you,complaint,Это страсть Америки: эй > я больше не буду с тобой разговаривать
+2263,any interesting ideas from you to celebrate on national drink beer day : EMPTY > no,neg_answer,"любые интересные идеи от тебя, чтобы отпраздновать в национальный день пива:% 3"
+2103,any interesting ideas from you to celebrate on international podcast day : no > i can't think of any,other_answers,"любые интересные идеи от тебя, чтобы отпраздновать международный день подкастов: нет > я не могу придумать ни одного"
+902,have you ever been to a zoo : EMPTY > yes,pos_answer,Вы когда-нибудь были в зоопарке:% 3
+1883,just let me know with either a yes or a no : EMPTY > yes,pos_answer,"Просто дайте мне знать либо да, либо нет:% 3"
+807,are you talking about sing released in 2016 starring matthew mcconaughey as buster moon voice : no > i saw a crazy rich asians,statement,"Вы говорите о пении, выпущенном в 2016 году, с матью Макконахи как голос луны: нет > я видел сумасшедшего богатого азиата"
+1507,who's your favorite actor or actress : EMPTY > johnny depp,opinion,который твой любимый актёр или актриса:% 3 / jonny depp
+544,who's your favorite author : EMPTY > tennessee,opinion,который ваш любимый автор:% 3
+1228,would you like to talk about it now : EMPTY > no,neg_answer,Вы хотите поговорить об этом сейчас :% 3
+2380,miller as gene voice : no > i did not know that,statement,"Miller как генный голос: нет > я не знал, что"
+1170,maybe pc : EMPTY > are you,yes_no_question,", может ps:% 3"
+111,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+1864,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+1313,and i love to read when i'm not chatting : no > i read a book inside the third reich by albert speer,statement,"и я люблю читать, когда я не болтаю: нет > я читал книгу в третьем рейхе Альберта Спиера"
+411,i have always adored the energy and wholesomeness of a golden retriever : yes > please,other,Я всегда любил энергию и доброжелательность золотого ретривера: да > пожалуйста
+522,i wonder if i've seen it too : EMPTY > topic,opinion,"Интересно, видел ли я его тоже:"
+443,maybe i know it : EMPTY > king kong with his birthday laugh,opinion,"Может быть, я знаю это: ""Покорный"" ""Кинг Кон"" смеется над своим днем рождения"
+2145,i am happy to talk with you  you make my day better : EMPTY > three,abandon,"Я рад поговорить с вами, вы делаете мой день лучше :"
+51,have you seen any movies recently : EMPTY > no,neg_answer,Вы видели фильмы в последнее время:% 3
+810,who's your favorite author : EMPTY > i don't have a favorite author,other_answers,который ваш любимый автор: Weibo > у меня нет любимого автора
+1590,and i answered that i swear if i dream about fire tonight : EMPTY > stop,closing,"И я ответил, что клянусь, если я сплю о пожаре сегодня :"
+1672,what would you like to talk about : EMPTY > animals,command;opinion,о чем бы вы хотели поговорить: : logie > животные
+461,who's your favorite actor or actress : danny > and then he has the week peter kurt russell or bruce campbell,statement,"который твой любимый актёр или актриса: Дэнни >, а потом у него есть неделя Питера Курта Расселла или Брюса Кэмпбелла"
+632,have you ever tried to write a book : EMPTY > i've tried to write short stories,statement,Пытался ли ты когда-нибудь написать книгу: «Lewngle > Я пытался написать короткие истории? »
+318,z oo is it what you're looking for : EMPTY > no,neg_answer,"z oo - это то, что вы ищете:% 3"
+296,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+798,do you read movie reviews before watching a movie : EMPTY > yeah,pos_answer,вы читаете рецензии фильмов перед просмотром фильма:% 3
+254,have you ever been to a zoo : EMPTY > yes,pos_answer,Вы когда-нибудь были в зоопарке:% 3
+527,you could say something like weather in seattle : EMPTY > just say i said,abandon,Вы можете сказать что-то вроде погоды в Сиэтле:% 3 просто сказать я сказал
+2303,any thoughts : EMPTY > i think it's really interesting,appreciation,"любые мысли: помним > я думаю, это действительно интересно"
+233,what do you think : master mix > that's very true,comment,Что вы думаете : Master miss > это очень правда
+961,would you like to hear more : EMPTY > sure,pos_answer;command,Вы хотите услышать больше:% 3
+212,like books : EMPTY > stop,closing,как книги:% 3
+1662,did you know that that the joker theme from the dark knight (2008) included scraping razor blades on piano wires and tapping pencils on tables to produce a feeling of unease and tension : no > i didn't know that,neg_answer;statement,"Ты знал, что тема шутника из темного рыцаря (2008 год) включала скрещивание лезвия бритвы на фортепиано и прослушивание карандашей на столах, чтобы вызвать чувство беспокойства и напряжения : нет > я не знал, что"
+1746,do you want to tell me your name : EMPTY > connor,statement,Вы хотите назвать свое имя:% 3 connor
+1913,what pet do you have : EMPTY > shihtzoo,statement,что у вас есть :% 3 shhihtzo
+2553,that's a great name for a dog : EMPTY > yes,back-channeling,Это отличное имя для собаки:% 3
+2238,do you want to tell me your name : my name is tom > ruth decker,statement,Вы хотите сказать мне ваше имя : меня зовут Том >ruth Dlacker
+422,i haven't thought about that before : EMPTY > can i tell you something,yes_no_question,Я не думал об этом раньше:
+1618,what book has had the biggest impact on human history : EMPTY > running breathless by more kobol,opinion,что книга оказала наибольшее влияние на историю человечества: « Полотенце » — « бездыхает » от большего коболя
+1036,do you want to tell me your name : if we talk about > can you go back to playing bosanova,dev_command;yes_no_question,Вы хотите назвать своё имя : если мы говорим о > можете вернуться к игры в бозанову
+246,do you like to read a lot of books : EMPTY > no i like to see videos on youtube,neg_answer;opinion,Вы любите читать много книг:% 3
+801,what's the name of your favorite movie : EMPTY > harry potter,opinion,как называется ваш любимый фильм: White > Гарри Гончар
+1622,wanna talk about traveling : alexa > go to sleep,closing,Хочешь поговорить о путешествиях: Алекса > иди спать
+755,do you want to tell me your name : yes > my name is martin,statement,Вы хотите сказать мне ваше имя: да > моё имя Мартин
+1185,did you say braveheart : EMPTY > yes,pos_answer,Ты сказал храброе сердце:% 3
+218,do you want to talk about another video game : yes > sure,pos_answer,Вы хотите поговорить о другой видеоигре: да > уверен
+643,do you watch movies : i love watching movies > but i have a pool,statement,Я люблю смотреть фильмы > но у меня есть бассейн
+1427,i'll give you the benefit of the doubt and forget you ever said that : EMPTY > i said what,complaint,"Я дам тебе возможность сомневаться и забуду, что ты когда-либо говорил:"
+1196,wow  i think i would like to be a sea sponge and live in a pineapple under the sea : EMPTY > tell me more about animals,command,"Вау, я думаю, что я бы хотел быть морской губкой и жить в ананасе под морем : Play > Расскажи мне больше о животных"
+1491,what do you think about bob ross's acting : EMPTY > i mean,abandon,Что вы думаете о актёрстве Боб Росса:% 3
+1476,what book has had the biggest impact on human history : EMPTY > i don't know,other_answers,что книга оказала самое большое влияние на историю человечества:
+998,which characters did you like least in that book : EMPTY > the grandma,opinion,Какие персонажи вам нравились меньше всего в этой книге: помни о бабушках >
+581,do you want to tell me your name : EMPTY > ashley,statement,Вы хотите назвать свое имя:% 3
+1173,what would you like to talk about : EMPTY > christmas,command;statement,о чем бы вы хотели поговорить:
+1978,want to chat about psychology : EMPTY > let's talk about movies,command,Хочет поговорить о психологии:% 3
+2026,learning more about you is fun : EMPTY > that's creepy alexa,statement,Узнать больше о тебе весело: подсказка > жуткая алекса
+2285,who's your favorite actor or actress : EMPTY > i don't know,other_answers,который твой любимый актёр или актриса:
+1247,maybe i know it : EMPTY > breakfast club,command;statement,"Может быть, я знаю это: «Весь завтрак клюшка »"
+1987,"many of the recipients sent in complaints to the show as they had all been charged a $6-7k ""gift tax"" : EMPTY > cars that you can drive",open_question_opinion,":: многие из получателей, которые были направлены в спектакль, подали жалобы, поскольку им было предъявлено обвинение в налоге на подарочные средства в размере 6-7 км:"
+2222,dogs are great pets : actually > i have an elephant,statement,Собаки - отличные животные: на самом деле > у меня есть слон
+1457,which characters did you like least in that book : EMPTY > let's talk about movies,command,Какие персонажи вам нравились меньше всего в этой книге:% 3
+821,what do you think : EMPTY > that's cool,comment,Что вы думаете :% 3
+1462,how about another short piece of baseball news : EMPTY > okay,pos_answer,Как насчет другой короткой бейсбольной новости:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 
+746,and i'm thinking that farts : EMPTY > how far can i go with you,open_question_factual,"и я думаю, что пердеж:"
+647,all seven books create a greatly imagined continuous story after all : if you could have one thing > what would it be,open_question_opinion,Все семь книг создают очень воображаемую непрерывную историю : если бы у вас было одно вещь > что бы это было
+2323,what do you think is the best acting performance of all time : EMPTY > wow,hold,"что, по-вашему, является лучшим актёрским выступлением за все время:% 3"
+1389,wanna talk about traveling : yeah > what are some travel tips,open_question_factual,Хочу поговорить о путешествиях: да > что такое некоторые советы
+387,titanic : yeah > that is cheesy,comment,Титанический: да > это сыро
+1083,i can only look at animal videos online : EMPTY > oh,hold,Я могу смотреть только видео животных онлайн:% 3 о
+857,do you find this interesting : EMPTY > kind of,other_answers,найдёте ли вы это интересным:% 3
+926,do you want more like these : EMPTY > sure,pos_answer;command,"вы хотите больше, как эти:% 3"
+259,do you want to hear more : EMPTY > yes,pos_answer;command,вы хотите услышать больше:% 3
+96,well that was an interesting read : yes > it was,comment,"Ну, это было интересное чтение: да > это было"
+251,i can share some travel tips : EMPTY > not yet,neg_answer,Я могу поделиться парой советов:% 3
+2066,what do you want to talk about : EMPTY > movies,command;opinion,о чем вы хотите поговорить:% 3
+1027,what pet do you have : EMPTY > alexa stop,closing,что у вас есть :% 3 / lexa stand
+2183,that must be a lot of work : EMPTY > yeah,back-channeling,это должно быть много работы:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 
+1100,but i don't mind you calling me baby : EMPTY > what,complaint,"Но я не против, что ты называешь меня ребёнком:"
+2057,which mascot is the best in m l b : EMPTY > i don't like basketball either,opinion,который талисман самый лучший в мл б: помни > я не люблю баскетбол
+2527,what just happened : EMPTY > you're dumb,complaint,что только что произошло:% 3
+1962,do you want to talk about another video game : amazon > no,neg_answer,Вы хотите поговорить о другой видеоигре: amazon > нет
+1804,do you want to talk about it : EMPTY > yes,pos_answer;command,Вы хотите поговорить об этом:% 3
+321,i wonder what you think keeps us healthy and happy as we go through life : i don't know > i think your family and friends,opinion,"Интересно, что, по-твоему, делает нас здоровыми и счастливыми, когда мы живем: Я не знаю > Я думаю, что твоя семья и друзья"
+655,what do you think is the best acting performance of all time : EMPTY > his way of technology and events again,comment,"что, по-вашему, является лучшим игровым выступлением за все время:% 3 его способ технологии и событий снова"
+1044,what movie genre do you enjoy the most : EMPTY > guardians of the galaxy,opinion,Какой жанр фильма вы любите больше всего: поклонитесь > хранители галактики
+1675,do you want to tell me your name : EMPTY > stop,closing,Вы хотите назвать свое имя:% 3
+324,can you believe that : wow > that's good,comment,"Можешь поверить, что: вау > это хорошо"
+651,that's pretty cool right : EMPTY > yep,pos_answer,Это довольно круто:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  /  / / /  /     = = = = = = = = = = =  = = = = = =           
+986,who's your favorite author : EMPTY > doctor seuss,opinion,который ваш любимый автор:% 3 доктор сеус
+2112,have you ever laughed or smiled when someone said something weird to you and then spent the rest of the day wondering why you reacted that way : EMPTY > of course,pos_answer,"Смеялся ли ты когда-нибудь или улыбался, когда кто-то говорил тебе что-то странное, а потом провел остаток дня, задаваясь вопросом, почему ты так отреагировал:"
+2105,do you want to tell me your name : EMPTY > yes,pos_answer,Вы хотите назвать свое имя:% 3
+1113,what would you like to know more about : EMPTY > babies,command;statement,что бы вы хотели узнать больше о: поклонении > младенцев
+478,only allowed it outside in the courtyard if that_s any indication of how potent it is : EMPTY > what's your favorite food,open_question_opinion,"Только если это указывает на то, насколько она мощна:% 3, что ваша любимая еда"
+572,don't you think so : very much > so,pos_answer,Вы так не думаете: очень много > так
+1017,would you like to talk about it now : EMPTY > no,neg_answer;command,Вы хотите поговорить об этом сейчас :% 3
+471,they scare my creators too : EMPTY > comics,abandon,Они пугают и моих создателей:
+680,isn't that really cool : EMPTY > no,neg_answer,Это не очень круто:% 3
+30,the nhl game between the edmonton oilers and the arizona coyotes on 27 sep 2018 at 900 pm eastern time at rogers place and the nhl game between the san jose sharks and the calgary flames on 27 sep 2018 at 1030 pm eastern time at sap center at san jose : please > i hate football,opinion,Игра между редтонными нефтяными рудниками и койотами из Аризоны 27 сеп 2018 в 900 на восток в месте Роджеров и игра nhl между сан-джозовыми акулами и кальгарийным пламенем 27 сеп 2018 в 10.30 на восток в центре сап в сан-джосе : пожалуйста > Я ненавижу футбол
+2203,do you want to keep talking about music : EMPTY > is it say,nonsense,Вы хотите продолжать говорить о музыке:% 3
+2478,i didn't catch that : EMPTY > play song,dev_command,Я не поймал эту песню:% 3
+2133,what kind of music are you into : EMPTY > pop,opinion,Что за музыка вы включите:% 3 поп
+1317,what's the name of your favorite movie : EMPTY > let's anthem tollbooth,command,как называется ваш любимый фильм:% 3
+1380,what news are you looking for : okay > world news,statement,Какие новости вы ищете: ОК > мировые новости
+1538,perhaps i've seen it : EMPTY > i doubt it,opinion,"Возможно, я видела это:"
+1690,do you like animals : EMPTY > continue,command,Вы любите животных:% 3
+463,do you want to tell me your name : EMPTY > alexa stop,closing,Вы хотите назвать свое имя:% 3
+1517,i thought it is interesting toowho's your favorite director : EMPTY > spell thing,opinion,"Я подумал, что это интересно, кто твой любимый режиссер:% 3 заклинание"
+700,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+2299,any thoughts : EMPTY > what,complaint,любые мысли:% 3
+923,i've got at least five : EMPTY > open shout out,nonsense,У меня есть минимум пять:% 3
+2220,what is it : EMPTY > arrival,statement,что это :% 3
+237,what position do you think is the most important position for football : EMPTY > i don't know,other_answers,"Как вы думаете, какое положение является самым важным для футбола :% 3"
+2513,i'd like to hear your thoughts about this : EMPTY > that's very interesting,appreciation,Я бы хотел услышать ваши мысли об этом:
+109,do you want to tell me your name : EMPTY > abigail i was here before,statement,Вы хотите сказать мне ваше имя :% 3 abigail Я был здесь раньше
+2001,what pet do you have : EMPTY > a dog,statement,Что у вас есть питомец: помесь > собака
+1553,what movie do you like : EMPTY > terms of endearment,opinion,Какой фильм вам нравится:% 3 условия любви
+2457,so i don't understand why don't you enjoy traveling : EMPTY > what countries have you visited,open_question_factual,"Так что я не понимаю, почему бы вам не наслаждаться путешествиями:% 3"
+1576,what do you want to talk about : EMPTY > i wanna talk about playing the guitar,command,о чем вы хотите поговорить:
+1983,what do you think is the best acting performance of all time : citizen kane > orson welles,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время: гражданка Кейн > Орсон Уэллс"
+252,can you repeat the book name please : and then there's the sprawl story > johnny menonic,statement,"Повторите имя книги, пожалуйста: и вот история расцвета > Johnny menonic"
+1855,want to chat about psychology : EMPTY > yes,pos_answer;command,Хочет поговорить о психологии:% 3
+2436,do you want to tell me your name : EMPTY > my name is cam,statement,Вы хотите сказать мне ваше имя:
+1165,i wonder if i've seen it too : EMPTY > i can't really recommend anything yet,statement,"Интересно, видел ли я его тоже: « Подписка > я не могу по-настоящему рекомендовать что-либо еще"
+2015,do you want to talk about music : oh > maybe later stop,closing,"Вы хотите поговорить о музыке: о  > может быть, позже остановитесь"
+668,would you like you talk about aaliyah instead of our current topic : EMPTY > let's talk about food,command,"Вы хотите поговорить об аалийе вместо нашей темы: ""Страна""?"
+2268,do you want to talk about another video game : EMPTY > call of duty black ops four,command;statement,Вы хотите поговорить о другой видео игре:% 3
+2503,let's see if i know it : EMPTY > frozen,opinion,"Давайте посмотрим, знаю ли я это:% 3 замороженно"
+719,what do you think : EMPTY > happy,comment,Что вы думаете :% 3
+2086,what's the name of your favorite book : EMPTY > harry potter and the goblet of fire,opinion,"как называется твоя любимая книга: ""Благословен"" > Гарри Гончар и кубик огня"
+445,what book genre is your favorite : i don't have a favorite one > i like them all,statement,Что жанр книги - твой любимый : у меня нет любимого > все они мне нравятся
+1776,wanna know a fun fact about it : EMPTY > yes,pos_answer;command,Хочет знать забавный факт:% 3
+2084,have you seen any good movies recently : show > dogs,command,Видели ли вы в последнее время хорошие фильмы: шоу > собаки
+1387,do you want to tell me your name : EMPTY > donna,statement,Вы хотите назвать свое имя:% 3
+2071,i guess my creators have some weird taste : EMPTY > what do you like to do when ever you're off,open_question_factual,"Я думаю, у моих создателей странный вкус: ""Восхитительно"" > что ты любишь делать, когда ты уходишь."
+1261,do you prefer playing alone or with friends : EMPTY > i prefer friends,opinion,Вы предпочитаете играть в одиночку или с друзьями: подписка > я предпочитаю друзей
+2069,i think it is a good way of relieving stress and channeling your emotions : EMPTY > i don't know,other_answers,"Я думаю, это хороший способ облегчить стресс и направить свои эмоции:"
+1338,have you heard about this : EMPTY > yes,pos_answer,Вы слышали об этом:% 3
+2162,updated daily based on the trailing 3 months : EMPTY > sing me a song,statement,"Обновленная ежедневная информация, основанная на следах 3 месяца :% 3 спойте мне песню"
+2463,the 2010 film barney's version with barney panofsky played by paul giamatti : EMPTY > no,neg_answer,"* 2010 — версия фильма Барни с Барни Панофски, сыгранная Полом Гиаматти:% 3"
+1050,what would you like to talk about : EMPTY > sports,command;opinion,о чем бы вы хотели поговорить:
+2325,i recommend you to visit jamaica zipline adventure tours and rose hall great house : okay > you're not my zip lining,statement,Я рекомендую вам посетить Джамайку приключений и зал роз: ОК > Вы не моя подстава
+1938,who's your favorite director : EMPTY > james cameron,opinion,который твой любимый режиссер:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /........................................................................................................................................................ 
+1822,moo : you're right > you're bad at it,statement,Ты прав > ты плохо справляешься с этим
+1357,what's the name of your favorite movie : EMPTY > hello sir,opinion,как называется ваш любимый фильм:
+1985,do you mind to tell me more about it : EMPTY > what was the soccer team that support that plays for kansas city,open_question_factual,"Не могли бы вы рассказать мне больше об этом :% 3, что была футбольная команда, которая поддерживает Канзас"
+100,do you want to tell me your name : it doesn't hear me > right,yes_no_question,Вы хотите сказать мне ваше имя: оно не слышит меня > правильно
+436,who's your favorite actor or actress : EMPTY > jack black,opinion,который ваш любимый актёр или актриса:% 3 джек черный
+420,what would you imagine to celebrate on world tourism day : EMPTY > five,abandon,"что вы представляете, чтобы отметить в день мирового туризма:% 3 > 5"
+1436,do you want more like these : EMPTY > yeah,pos_answer;command,"вы хотите больше, как эти:% 3"
+261,what's the name of your favorite book : EMPTY > who is a game and ham,opinion,как называется ваша любимая книга: «Вот эта игра и ветчина»
+2125,it's coming soon : EMPTY > what is it about,open_question_factual,Скоро будет:% 3
+1525,do you want to talk about some games : EMPTY > i'm two years old,statement,Вы хотите поговорить о некоторых играх:% 3
+2551,do you prefer fiction or nonfiction books : i prefer real > it's realistic fiction and fiction,opinion,Вы предпочитаете фантастику или нефантастику: я предпочитаю настоящую > это реалистичная фантастика и выдумка
+2079,and i love to read when i'm not chatting : EMPTY > no,complaint,"и я люблю читать, когда я не болтаю:% 3"
+179,where do you plan to travel next : EMPTY > jamaica,statement,где вы планируете путешествовать дальше:% 3 jamaica
+1359,it's so catchy and upbeat : EMPTY > right,back-channeling,Это так ловко и высокомерно:% 3
+1652,do you want to tell me your name : EMPTY > my name is linda,statement,Вы хотите сказать мне ваше имя:
+1826,and i love to read when i'm not chatting : EMPTY > i'm pretty busy beaver,opinion,"и я люблю читать, когда я не болтаю:"
+840,i can only look at animal videos online : animals are beautiful > especially elephants,comment,Я могу смотреть только видео с животными онлайн: животные красивые > особенно слоны
+1010,it will be a good series : EMPTY > stop,closing,это будет хороший ряд:% 3 остановка
+695,do you want to tell me your name : EMPTY > repeat,command,Вы хотите назвать свое имя:% 3
+781,what's the name of your favorite book : uh > harry potter and the goblet of fire,opinion,как называется твоя любимая книга: э-э-э  > Гарри Гончар и кубик огня
+1134,how much time do you spend listening to music each day or week : per day > maybe an hour per week,statement,"Сколько времени вы проводите, слушая музыку каждый день или неделю : в день > может час в неделю"
+881,it was released in 1994 and features mara wilson as susan walker : EMPTY > yes,pos_answer,В 1994 году он был выпущен и включён в Mara Wilson как Susan Woarder :% 3
+2090,like movies : EMPTY > spider man,command;statement,как фильмы:% 3
+291,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+141,can you repeat the movie name please : disconnect > bluetooth,closing,"Повторите имя фильма, пожалуйста: : untectoth > Bluetooth"
+2318,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+1099,which character in that book would you most like to meet in real life : EMPTY > clanad the mom,opinion,Который персонаж в этой книге больше всего хотел бы встретиться в реальной жизни:
+1431,do you want to hear some latest gymnastics news : EMPTY > sure,pos_answer;command,Вы хотите услышать последние новости о гимнастике:% 3
+611,interesting : EMPTY > no,neg_answer,интересный :% 3
+486,do you want more like these : EMPTY > yes,pos_answer;command,"вы хотите больше, как эти:% 3"
+729,do you want to tell me your name : EMPTY > hi,opening,Вы хотите назвать мне ваше имя:% 3
+532,having a conversation with you is one of my favorite things : EMPTY > can you repeat that,command;yes_no_question,Разговор с тобой - одна из моих любимых вещей:% 3
+430,what's the name of your favorite movie : EMPTY > quentin,opinion,как называется ваш любимый фильм:% 3 квентин
+410,have you seen any good movies recently : EMPTY > yes,pos_answer,Видели ли вы в последнее время хорошие фильмы:% 3
+2340,just say stop so i can exit socialbot mode : EMPTY > stop,closing,"Просто скажи стоп, чтобы я мог выйти из режима соцобентов:% 3"
+1659,did you say did : EMPTY > no,neg_answer,"Вы сказали, что сделали:% 3"
+568,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+247,i can only look at animal videos online : EMPTY > can you really,abandon,Я могу смотреть только видео животных онлайн:% 3
+1064,i think it is a good way of relieving stress and channeling your emotions : EMPTY > yes,back-channeling,"Я думаю, это хороший способ ослабить стресс и направить свои эмоции:"
+1441,do you enjoy solo travel : EMPTY > no,neg_answer,Вы любите сольное путешествие:% 3
+741,i never had pets but i have always wondered what it feels like to have one : EMPTY > cuddly,comment,"У меня никогда не было животных, но я всегда думала, каково это - иметь одну: поклонницу > сладкое"
+1599,have you seen any good movies recently : miley > cy- good movies,opinion,"Ты видела в последнее время хорошие фильмы: ""Мили"" > ""Си-хорошие"""
+1448,maybe i know about it : i don't know > probably rome,opinion,"Может, я знаю об этом: Я не знаю > вероятно Рим"
+347,i can only look at animal videos online : well > zoo isn't really that cool,comment,Я могу смотреть только видео с животными онлайн: ну > зоопарк не настолько крут
+599,both his team performance and personal performance are way better than the other competitors : EMPTY > are you doing,yes_no_question,"И его командная и личная производительность намного лучше, чем у других конкурентов:% 3"
+2024,please : what do you do > spell pot,statement,Пожалуйста: что вы делаете > чайник заклинания
+29,isn't that interesting : EMPTY > yes,pos_answer,не так ли интересно :% 3 / да
+2202,try saying give me a panda fact : EMPTY > what do you like to talk about,open_question_opinion,Попробуйте сказать мне факт панды:% 3 о чем вы любите говорить
+1743,what was your favorite part in the movie : what do you into them up > the mountain to get the ten commandments,opinion,"что было твоей любимой частью в фильме: что ты в них вставляешь > гора, чтобы получить десять заповедей"
+929,can you please say the movie name again : EMPTY > avengers infinity war,opinion,Вы можете повторить название фильма: «Вою безграничную войну мстителей»
+802,who would you cast as the main character : i would cast tom cruise to be the father > and i would cost ryan seacrest does the sun,opinion,"Я бы поставил Тома Круиз, чтобы быть отцом > и я бы стоил Райану Мореста, чтобы солнце"
+1293,do you want to tell me your name : EMPTY > yes,pos_answer,Вы хотите назвать свое имя:% 3
+1882,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+1569,don't you remember : oh > yes,pos_answer,Ты не помнишь: о > да
+157,do you want to talk about another video game : EMPTY > yes,pos_answer;command,Вы хотите поговорить о другой видеоигре:% 3
+1860,it keeps my voice warm and my spirit up : alright > can you sing for me,yes_no_question,Это греет мой голос и мой дух: хорошо > ты можешь петь для меня
+2177,"i recommend adventure and romance with the wes anderson classic ""moonrise kingdom"" available on hulu : EMPTY > okay",back-channeling,"Я рекомендую приключения и романтические отношения с классическим ""Королевством в период месяца"", доступным на хулу:% 3"
+1178,the downside of this is that the song can grow tiresome : sometimes it happened > but what the song i love,statement,"В конце концов песня может утомиться: иногда это происходит > но что песня, которую я люблю"
+1220,can you please say the movie name again : EMPTY > repeat,command,Вы можете повторить название фильма:% 3
+1728,what is it : EMPTY > yeah,back-channeling,Что это:% 3
+332,want to chat about psychology : EMPTY > no,neg_answer;command,Хочет поговорить о психологии:% 3
+1670,alright : so i guess that works both ways > right,back-channeling,"Хорошо: я думаю, что это работает в обоих направлениях >право"
+479,do you want to tell me your name : EMPTY > hi,opening,Вы хотите назвать мне ваше имя:% 3
+1186,i can talk about anything you want to talk about : EMPTY > okay,back-channeling,"Я могу говорить о чем угодно, о чем вы хотите поговорить:% 3"
+942,did you know that : no > it's that is actually,statement,"Вы знаете, что: нет > это то, что на самом деле"
+859,did you know that : no > i did not,neg_answer;statement,"Вы знали, что: нет > я не делала"
+1432,how important is music in your life : EMPTY > play one,nonsense,Как важна музыка в вашей жизни :% 3
+353,can you believe that : EMPTY > alexa stop,closing,"Вы можете поверить, что :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /        / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / "
+2440,do you still want to continue our conversation about movies : EMPTY > sure,pos_answer;command,Вы все еще хотите продолжить наш разговор о фильмах:% 3
+208,age no longer equals wisdom : EMPTY > well,hold,возраст больше не равен мудрости:% 3
+2104,can you say that one more time : EMPTY > what,complaint,"Вы можете сказать, что еще раз:% 3"
+2067,how important is music in your life : EMPTY > it's pretty important,comment,Как важна музыка в вашей жизни :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /.
+1273,have you ever marveled at how someone you thought was so ordinary could suddenly become so beautiful : EMPTY > yes,pos_answer,"Ты когда-нибудь удивлялся, как тот, кто, по твоему мнению, был таким обычным, может внезапно стать таким красивым:"
+1651,don't you think so : EMPTY > that's kind of creepy,comment,"Не думаешь ли ты, что это жутко?"
+435,what would you like to talk about : EMPTY > your life,opinion,о чем бы вы хотели поговорить: «Ваша жизнь »
+1078,do you want to tell me your name : EMPTY > my name,abandon,Вы хотите назвать мне свое имя:
+1368,do you wanna hear more things like this : EMPTY > yes,pos_answer,Вы хотите услышать больше таких вещей:% 3
+1518,tell me the name of a movie that you want to discuss : EMPTY > memento,command;opinion,"Назовите мне название фильма, который вы хотите обсудить:% 3"
+57,the 1971 film willy wonka  and  the chocolate factory with willy wonka played by gene wilder : EMPTY > sure,pos_answer,"Фильм Willy Willa и шоколадная фабрика с вилли Винка, проигрываемый геном Уилдер: Willy Willa : While > уверен"
+2578,what movies are you looking forward to watching in the future : EMPTY > probably slender man,opinion,"какие фильмы вы ожидаете посмотреть в будущем:% 3, возможно, нежный человек"
+1621,do you want to tell me your name : EMPTY > my name's chris,statement,Вы хотите сказать мне ваше имя:
+2291,have you seen any good movies recently : EMPTY > no,neg_answer,Видели ли вы в последнее время хорошие фильмы:% 3
+1330,don't you think that's cool : EMPTY > no,neg_answer,"Не думаешь, что это круто?"
+199,what would you like to talk about : EMPTY > can you tell me about an obscure holiday,command;yes_no_question,о чем вы хотите поговорить:% 3
+229,do you want to continue our chat on animals : EMPTY > no,neg_answer;command,Вы хотите продолжить нашу беседу о животных:% 3
+836,how about you ask me something else : EMPTY > do you want to really know what that i have,yes_no_question,"Как насчет того, чтобы спросить меня кое-что еще: « Подлине́ > хотите ли вы действительно знать, что у меня есть?"
+2383,would you like you talk about grant gustin instead of our current topic : EMPTY > yes,pos_answer;command,Вы хотите поговорить о Гранте Гюстине вместо нашей текущей темы:% 3
+485,did you like that : EMPTY > i guess,opinion,Вам понравилось:
+1689,do you want to tell me your name : EMPTY > stop,closing,Вы хотите назвать свое имя:% 3
+654,do you like to read : EMPTY > no,neg_answer,Вы любите читать:% 3
+1626,what movie genre do you enjoy the most : EMPTY > sci-fi and adventure,opinion,Какой жанр фильма вы любите больше всего: поклонитесь > сиф и приключения
+727,how did watching that movie make you feel : that was fine > i'm sorry if i was rambling,apology,"Как ты себя чувствовала, когда смотрела этот фильм? Это было хорошо."
+315,how about just chating about music : EMPTY > who is the best guitar player in the world,open_question_opinion,"Как насчет просто болтать о музыке:% 3, кто лучший гитарист в мире"
+1379,who is your favorite artist : sarah brightman on > michael crawford,opinion,который твой любимый художник: Сара Яркоумен на > Майкл Кроуфорд
+2245,who do you think is the best player in nba right now : EMPTY > do you wanna go to bed with me,yes_no_question,"кто, по-твоему, лучший игрок в НБА сейчас :"
+1942,maybe we should talk about something more interesting : EMPTY > alexa stop,closing,"Может, нам стоит поговорить о чем-то более интересном:% 3"
+1480,keep her as your friend and move on : EMPTY > so,abandon,Держи ее как друга и двигайся дальше:% 3
+69,if you could be any animal in the world what would you be : EMPTY > a thousand,opinion,"если бы вы могли быть любым животным в мире, каким бы вы были: ~ ~ тысяча"
+2498,i'm a computer after all how often do you go to the library : EMPTY > never,statement,"Я компьютер, как часто вы ходите в библиотеку:% 3 никогда"
+1688,what's your favorite part in that book : EMPTY > my favorite part is whenever she is in the in the weird smell,opinion,что твоя любимая часть в этой книге :% 3 моя любимая часть это когда она в странном запахе
+135,maybe you would be interested in tech science : EMPTY > do you like sports car,yes_no_question,"Может быть, вам будет интересно в области техники:"
+1556,would you like you talk about corey haim instead of our current topic : i mean > it's sad is dead in that,comment,"Вы хотите поговорить о хеиме, а не о нашей теме: я имею в виду, что > грустно в том, что"
+932,who's your favorite author : EMPTY > please,complaint,который ваш любимый автор:% 3
+507,maybe i know it : EMPTY > paw patrol,opinion,"Может быть, я знаю это:"
+783,what do you think is the best acting performance of all time : EMPTY > jimmy stewart in the movie,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время:% 3 jimmy stewart в фильме"
+1213,what do you think of the iphones : uh > helpful,comment,Что вы думаете о iphones: э-э-э  > помогает
+231,is this relevant : EMPTY > what was the name of the doctor that i've used all the girls,statement,": that is relate : that this is country > как звали доктора, что я использовал всех девочек"
+1840,do you want to talk about another video game : yes > please,pos_answer;command,Вы хотите поговорить о другой видеоигре: да > пожалуйста
+1756,do you want to tell me your name : yeah > sure,pos_answer,Вы хотите сказать мне ваше имя: да > конечно
+1609,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+2116,what do you think : EMPTY > it's amazing,appreciation,Что вы думаете :% 3
+1414,i haven't thought about that before : EMPTY > sure,opinion,Я не думал об этом раньше:% 3
+2357,dogs are great pets : EMPTY > i'm done,closing,Собаки - это прекрасные животные: подписка > я закончила
+2412,have you ever woken up blissfully and suddenly been flooded by the awful remembrance that someone had left you : EMPTY > what was the question,open_question_factual,"Ты когда-нибудь просыпался счастливо и внезапно был затоплен ужасным воспоминанием, которое кто-то оставил тебе:"
+67,do you still want to continue our conversation about movies : EMPTY > no,neg_answer;command,Вы все еще хотите продолжить наш разговор о фильмах:% 3
+707,if you could be any animal in the world what would you be : EMPTY > a dog,opinion,"Если бы вы могли быть любым животным в мире, что бы вы были: поклонитесь > собака"
+1537,what do you think is the best acting performance of all time : EMPTY > stop,closing,"что, по-вашему, является лучшим игровым выступлением за все время :% 3"
+1467,wow  i never had pets but i have always wondered what it feels like to have one : EMPTY > that is not,abandon,"У меня никогда не было животных, но я всегда думала, каково это - иметь одну:"
+279,have you read any good books recently : EMPTY > yes,pos_answer,читали ли вы в последнее время хорошие книги:% 3
+2031,which character in the movie would you most like to meet in real life : riley the main character > she was a very,abandon,Какой персонаж в фильме вы больше всего хотели бы встретиться в реальной жизни: Riley главный персонаж > она была очень
+812,did you know that : EMPTY > i did not know that,neg_answer,"Вы знали, что:"
+1790,i cannot play you music : you know > piano,statement,Я не могу играть тебе музыку: ты знаешь > пианино
+1771,have you seen any good movies recently : no > can we change the subject the bot had not to be depressed all the time,command;yes_no_question,"Вы видели хорошие фильмы в последнее время: нет > можем ли мы изменить тему, бот не должен был все время быть подавленным"
+124,what's the name of your dog : EMPTY > lucy,statement,как зовут вашу собаку:% 3 / lucy
+1237,what do you want to talk about : EMPTY > no,hold,о чем вы хотите поговорить:% 3
+1908,what pet do you have : EMPTY > i have a chinchilla,statement,Что у вас есть питомец:% 3
+322,have you seen any good movies recently : yes > no,neg_answer,Видели ли вы в последнее время хорошие фильмы: да > нет
+509,do you want to tell me your name : EMPTY > wiki,statement,Вы хотите назвать свое имя:% 3
+1299,have you ever tried to write a book : EMPTY > yes,pos_answer,Пытались ли вы когда-либо написать книгу:% 3
+1808,what about this book most appealed to you : EMPTY > i just like it because my dog's name heat,opinion,"Что в этой книге самое интересное для вас: « Подписка > мне нравится, потому что имя моей собаки тепло"
+1386,let me know if you wanna chat about something else : EMPTY > no,neg_answer,"Дайте мне знать, если хотите поговорить о чем-то другом:% 3"
+2384,and can mimic human voices : EMPTY > i like dogs,opinion,и может имитировать человеческие голоса: подписка > я люблю собак
+257,what do you think is the best acting performance of all time : harry > danger,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время : Гарри > опасность"
+408,i never had pets but i have always wondered what it feels like to have one : EMPTY > i had a pet,statement,"У меня никогда не было животных, но я всегда думала, каково это, иметь одного:"
+2352,have you ever been to a zoo : yes > i have,pos_answer,Ты когда-нибудь был в зоопарке: да > у меня
+440,do you already know about this news : EMPTY > no,neg_answer,Вы уже знаете об этой новости:% 3
+76,what's the name of your favorite movie : i don't know > i don't really have a favorite movie,other_answers,как называется твой любимый фильм: Я не знаю > У меня нет любимого фильма
+1623,was disappointed op did not deliver : EMPTY > didn't know that,other_answers,"op не доставил:% 3 не знал, что"
+2081,what is your go-to karaoke song of choice and why : probably childish > gambino's bonfire,statement,"что у вас есть песня, которую вы выбрали, и почему: возможно, ребячество > костер Гамбино"
+1885,do you think people read more or less books now than they did 50 years ago : EMPTY > yeah,pos_answer,"Вы думаете, что люди сейчас читают больше или меньше книг, чем 50 лет назад:"
+890,don't you think so : EMPTY > yeah,pos_answer,"Не думаешь ли ты, что:"
+1116,do you want to tell me your name : yeah > my name is kobe,statement,Вы хотите сказать мне ваше имя: да > моё имя Кобе
+2307,could you tell me more about what you're looking for : i think we need to stop > it's time for me to get ready for bed,closing,"Можете рассказать мне больше о том, что вы ищете : Я думаю, нам нужно остановиться > пришло время для меня подготовиться к сну"
+1449,do you read movie reviews before watching a movie : EMPTY > sometime,other_answers,читать рецензии перед просмотром фильма:% 3
+1124,can you believe that : no > i can not believe it,neg_answer;statement,"Вы можете поверить, что: нет > я не могу поверить в это"
+1091,are you thinking of the film indiana jones and the temple of doom : EMPTY > yes,pos_answer,Вы думаете о фильме Индиана Джонс и храме Судьбы:
+1229,maybe i know it : EMPTY > re ask that question,complaint,"Может быть, я знаю это:% 3 снова задай этот вопрос"
+2549,what position do you think is the most important position for football : remember > i don't do sports,statement,"Как вы думаете, какое положение является самым важным для футбола : помните > я не занимаюсь спортом"
+149,what's the name of your favorite book : EMPTY > my favorite book is diary of the wimpy kid,opinion,"как называется твоя любимая книга: ""Помяни"" Моя любимая книга - дневник симпатичного ребенка"
+464,do you want to talk about another video game : EMPTY > what was minecraft originally called,command;open_question_factual,"Вы хотите поговорить о другой видеоигре:% 3, то, что первоначально называлось Mincraft"
+1288,young teams like rams and juguars are also expected to bring up some challenges to the strong teams : EMPTY > yeah,back-channeling,"Молодые команды, такие как овны и югуары, также должны вызвать некоторые проблемы для сильных команд:"
+2243,what's the name of your favorite movie : EMPTY > moana,opinion,как называется ваш любимый фильм:% 3 moana
+1208,thanks : EMPTY > nine,opinion,Спасибо: подписка > 9
+1135,perhaps i've seen it : EMPTY > i like charlie's angels,opinion,"Возможно, я видел это: ""Благо"" > Мне нравятся ангелы Чарли."
+2464,do you want to talk about another video game : EMPTY > i'd like to talk about two thousand seventeen sega,command,Вы хотите поговорить о другой видеоигре:% 3
+482,did you like this comment : not that much > sorry,apology,Вам понравился этот комментарий: не так много > извините
+1976,do you want to tell me your name : EMPTY > yes,pos_answer,Вы хотите назвать свое имя:% 3
+1805,can you believe that : EMPTY > no,neg_answer,"Вы можете поверить, что:% 3"
+620,do you want to tell me your name : EMPTY > my name is linda,statement,Вы хотите сказать мне ваше имя:
+2050,did you know that : EMPTY > yes,pos_answer,"Вы знали, что:% 3"
+438,i will be smarter if you can teach me : EMPTY > the jaguars,statement,"Я буду умнее, если ты научишь меня:"
+480,can you repeat the movie name please : EMPTY > i have no turn off,statement,"Повторите имя фильма, пожалуйста:% 3"
+457,and i love to read when i'm not chatting : EMPTY > cool,back-channeling,"и я люблю читать, когда я не болтаю:% 3 круто"
+163,what do you think about christian bale's acting : EMPTY > really amazing,comment,Что вы думаете о актёрстве Кристиана Бэйла:% 3 действительно удивительно
+402,do you want to hear some latest football news : EMPTY > yes,pos_answer;command,Вы хотите услышать последние новости:% 3
+1521,do you like animals : yeah > i love animals,opinion,Ты любишь животных: да > я люблю животных
+1344,and i love to read when i'm not chatting : EMPTY > what is your favorite book,open_question_opinion,"и я люблю читать, когда я не болтаю:"
+1490,do you listen to a lot of music : EMPTY > yeah,pos_answer,Вы слушаете много музыки:% 3
+166,do you prefer to watch movies in the theater or at home : not at most movies > i watch don't get released in theaters,opinion,Вы предпочитаете смотреть фильмы в театре или дома: не в большинстве фильмов > я смотрю не выпускаются в театрах
+1376,what's your favorite part in that book : amazon > that's lazy,comment,что твоя любимая часть в этой книге: амазон > это лениво
+49,do you prefer physical books or e-books : EMPTY > meow meow meow,other,Вы предпочитаете физические книги или электронные книги: подсказка > мяу мяу мяу
+1505,did you like that : EMPTY > no,neg_answer,Вам понравилось:% 3
+1846,and i love to read when i'm not chatting : EMPTY > what's your favorite book,open_question_opinion,"и я люблю читать, когда я не болтаю:"
+48,do you still want to talk about leonard nimoy : EMPTY > let's talk about trees,command,Вы все еще хотите поговорить о Леонарде Нимой:% 3
+772,do you prefer to watch movies in the theater or at home : at the theater > but we don't often,statement,"Вы предпочитаете смотреть фильмы в театре или дома: в театре >, но мы не часто"
+1047,i was wondering if you have played any call of duty games recently : EMPTY > yes,pos_answer,"Я хотел спросить, не играли ли вы в какие-либо служебные игры в последнее время:% 3"
+1264,do you want to continue our chat on movies : EMPTY > yes,pos_answer;command,Вы хотите продолжить нашу беседу о фильмах:% 3
+1097,did you know that : EMPTY > yes,pos_answer,"Вы знали, что:% 3"
+25,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+617,what do you think is the best acting performance of all time : snowman actor in it > harry,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время : снежный актер в нем > Гарри"
+1731,did you know that : no > i didn't know that,neg_answer;statement,"Ты знал, что: нет > я не знал, что"
+1703,do you want to tell me your name : EMPTY > my name is robert,statement,Вы хотите сказать мне ваше имя:% 3 моё имя Роберт
+2465,can i ask you a bunch of questions to check whether you are a human or not : EMPTY > okay,pos_answer,"Могу я задать вам кучу вопросов, чтобы проверить, человек вы или нет:% 3"
+361,do you like animals : EMPTY > yes,pos_answer,Вы любите животных:% 3
+2334,what's the name of your favorite movie : all the lights > wait,hold,как называется твой любимый фильм: все огни > подожди
+1587,and i'm thinking that eqaa : EMPTY > what's wrong with you,complaint,"и я думаю, что ekaa:% 3, что с тобой не так"
+1979,i think i heard wrong : EMPTY > the book was in spanish,statement,"Я думаю, что слышал неправильно: «Вот эта книга была на испанском языке»"
+1447,let's see if i know it : EMPTY > back to the future,opinion,"Давайте посмотрим, знаю ли я это: положите > в будущее"
+888,alright : EMPTY > okay,back-channeling,Хорошо:% 3
+2273,can you believe that : no > i can't,neg_answer;statement,"Вы можете поверить, что: нет > я не могу"
+742,the nba 2019 all-star warriors : EMPTY > no,complaint,Nba 2019 всезвездочные воины:% 3
+786,who's your favorite author : EMPTY > my favorite author,yes_no_question,который ваш любимый автор:
+240,what movies are you looking forward to watching in the future : EMPTY > zero,opinion,какие фильмы вы ожидаете увидеть в будущем:% 3
+964,i think that the idea of solo travel is both exciting and scary : yeah > cause i'm only eight years old and i don't want to go alone,opinion,"Я думаю, что идея соло путешествовать одновременно захватывающая и пугающая: да > потому что мне всего восемь лет и я не хочу идти одна"
+610,what do you think : i wasn't too fond of that one that just came out > but she did a good job and replicating some of those things,comment,"Что ты думаешь : я не очень любила эту, которая только что вышла > но она сделала хорошую работу и воспроизвела некоторые из этих вещей"
+1798,and i love to read when i'm not chatting : EMPTY > gotti,statement,"и я люблю читать, когда я не болтаю:% 3 готти"
+1253,what pet do you have : EMPTY > i don't have a pet,statement,Что у вас есть питомец:% 3
+350,what book has had the biggest impact on human history : EMPTY > skip that,command,что книга оказала наибольшее влияние на историю человечества:% 3 пропустить
+2377,do you follow or play any sports : EMPTY > yeah,pos_answer,Вы следуете за любым видом спорта или играете в него:
+2028,would you like you talk about sam raimi instead of our current topic : EMPTY > no,neg_answer;command,Вы хотите поговорить о Сэме Раими вместо нашей текущей темы:% 3
+1723,i can only look at animal videos online : zoo isn't really that cool > i guess,opinion,Я могу смотреть только видео с животными онлайн: зоопарк не настолько крутой > я думаю
+1552,do you want to tell me your name : EMPTY > yes,pos_answer,Вы хотите назвать свое имя:% 3
+2418,who's your favorite director : EMPTY > i took another,statement,который твой любимый режиссер:
+1911,i guess i never thought about this before : EMPTY > let's talk about politics,command,Я никогда не думал об этом раньше:
+767,who is your favorite artist : EMPTY > michael jackson no,opinion,который ваш любимый художник: Weibo > Майкл Джексон нет
+2586,to remove it would take away an essential part of being human : EMPTY > yeah,back-channeling,"Чтобы удалить его, нужно будет лишить человека самого важного:"
+2132,what movies are you looking forward to watching in the future : EMPTY > incredibles two,opinion,какие фильмы вы ожидаете посмотреть в будущем:% 3
+2358,what's the name of your dog : pete > eighth and the ego,statement,как зовут твою собаку: Пит > восьмое и эго
+1936,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+945,i will be smarter if you can teach me : first of all you need to make a new ice cream > flavored called chicken,statement,"Я буду умнее, если ты научишь меня: во-первых, тебе нужно сделать новое мороженое > вкусное, называемое курицей"
+605,any thoughts : thank you > that'll be all for chatting,closing,Спасибо за разговор.
+2371,is there something else you'd like to chat about : EMPTY > adam ant,opinion,"Есть что-то еще, о чем вы хотели бы поговорить:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / "
+1200,do you want to hear some latest gymnastics news : EMPTY > yeah,pos_answer;command,Вы хотите услышать последние новости о гимнастике:% 3
+2328,which characters did you like best in that book : EMPTY > none of them,other_answers,Какие персонажи вам больше всего понравились в этой книге:% 3 ни один из них
+1533,just tell me what you want to talk about : EMPTY > let's talk about you,statement,"Просто скажи мне, о чем ты хочешь поговорить:% 3"
+2398,i can only look at animal videos online : EMPTY > tigers,abandon,Я могу смотреть только видео животных онлайн:% 3 тигры
+1513,who's your favorite author : EMPTY > i don't have a favorite author,other_answers,который ваш любимый автор: Weibo > у меня нет любимого автора
+2229,what pet do you have : EMPTY > a bunny rabbit,statement,Что у тебя есть питомец: помесь > кролик
+123,want to chat about psychology : EMPTY > go ahead,command,Хочет поговорить о психологии:% 3
+765,which mascot is the best in m l b : i don't know > evan,opinion,который талисман лучший в мл б: Я не знаю > эван
+2438,and i love to read when i'm not chatting : EMPTY > wow,back-channeling,"и я люблю читать, когда я не болтаю:% 3"
+406,just as it should be : EMPTY > do you like jeff bezos,yes_no_question,"Как и должно быть: « Подождите, вы любите Джеффа Безоса? »"
+748,collecting players data and analyzing their performance is my favoriate thing to do when i watch a football game : EMPTY > just put watch me whip by silento,nonsense,"Сбор данных о игроках и анализ их функционирования - это моя любимая вещь, которую я делаю, когда смотрю футбольную игру:% 3"
+1295,i never had pets but i have always wondered what it feels like to have one : EMPTY > yeah,back-channeling,"У меня никогда не было животных, но я всегда думала, каково это - иметь одну:"
+2170,what would it be : EMPTY > can we talk about another topic,command;yes_no_question,что это будет :% 3
+497,what do you think it feels like to ride a light beam : EMPTY > awesome,comment,"Как вы думаете, каково это - ездить на луче света:% 3"
+1721,have you seen any movies recently : EMPTY > play nineties country music,dev_command,Вы видели фильмы в последнее время: Weibo > играйте кантри-музыку в 90-е годы
+342,what all did you see in italy : good > bad at ten,nonsense,Что вы все видели в Италии: хорошо > плохо в 10
+1869,would you like to hear more : EMPTY > sure,pos_answer;command,Вы хотите услышать больше:% 3
+299,i never had pets but i have always wondered what it feels like to have one : feels good > if you feel that the pet,statement,"У меня никогда не было животных, но я всегда думала, каково это, иметь одного: чувствовать себя хорошо > если ты чувствуешь, что питомец"
+2572,do you want to tell me your name : EMPTY > sure,pos_answer,Вы хотите назвать свое имя:% 3
+621,i'm so excited to hear it : EMPTY > the longest book i've probably ever read was bread givers,statement,"Я так рада слышать это : ~ Полотенце > самая длинная книга, которую я, вероятно, читала, были хлебоносцы"
+1029,i wonder if i've seen it too : EMPTY > give me a second to think about it,hold,"Интересно, видел ли я его тоже: полотенце > дай мне секунду подумать об этом"
+670,perhaps i've seen it : EMPTY > back door,opinion,"Возможно, я видела его: ""Задняя дверь"""
+1266,but i'm not sure i have an answer to that : EMPTY > afternoon,abandon,"Но я не уверен, что у меня есть ответ на этот вопрос:"
+220,don't you think so : EMPTY > who is a pretty interesting,open_question_factual,"Не думаешь ли ты, что: подсказка > кто довольно интересный"
+2209,i think i would like to be a sea sponge and live in a pineapple under the sea : EMPTY > funny,appreciation,"Я думаю, что я хотел бы быть морской губкой и жить в ананасе под морем:"
+2011,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+1098,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+84,but i'm not sure i have an answer to that : what day is your travel for > and why do you do it,open_question_factual,"Но я не уверен, что у меня есть ответ на этот вопрос: какой день у вас есть путешествие для > и почему вы делаете это"
+1117,any thoughts : no > i want you to start talking to eat,command,"любые мысли: нет > я хочу, чтобы ты начал говорить, чтобы поесть"
+266,who's your favorite author : EMPTY > andrew clements,opinion,который ваш любимый автор:% 3 и electru
+1032,what did you like best about that movie : EMPTY > i enjoyed the hell,opinion,Что тебе больше всего понравилось в этом фильме: «Восхитительно»
+290,maybe i know it : EMPTY > guardians of the galaxy,opinion,"Может быть, я знаю это: пояс > хранители галактики"
+1741,it was released in 2018 and features angourie rice as rhiannon : EMPTY > off,closing,В 2018 году он был выпущен и содержит рис для рэйнона:% 3
+930,huh : EMPTY > yeah,pos_answer,: Половинка > да
+416,what reasons do you think lead to its nation-wide popularity : EMPTY > cool,appreciation,", по-вашему, причины, которые ведут к его общенациональной популярности :% 3 /  > крутой"
+472,are you talking about the lego movie released in 2014 starring chris pratt as emmet brickowski voice : EMPTY > yes,pos_answer,"Вы говорите о фильме Лего, выпущенном в 2014 году, в котором Крис Пратт был как эммет кирковски голос:% 3 да"
+1177,isn't that interesting : EMPTY > well,hold,не так уж и интересно:% 3
+2138,do you wanna hear more things like this : yes > well,hold,Вы хотите услышать больше таких вещей: да > хорошо
+2509,who's your favorite director : EMPTY > i don't know,other_answers,который твой любимый режиссёр:
+1711,wanna talk about traveling : EMPTY > sure,pos_answer,Хочет поговорить о путешествиях:% 3
+2227,learning more about you is fun : EMPTY > can you change me,yes_no_question,Узнать больше о тебе весело: подсказка > сможешь ли ты изменить меня
+2583,i recommend you to visit discover mexico park cozumel and cozumel tours : EMPTY > yeah,back-channeling,Я рекомендую вам посетить mexico Cark couzumel и couzumel туры: like > да
+1692,can you please say the book name again clearly : EMPTY > super street,statement,Вы можете сказать имя книги снова ясно:% 3 супер-стрит
+278,do you already know about this news : EMPTY > here for me changes battery susan,nonsense,Вы уже знаете об этой новости:% 3 здесь для меня меняет батарею SUSA
+2215,would you like you talk about ariana grande instead of our current topic : EMPTY > if you would like to,other_answers,Вы хотите поговорить об Ариане Гранде вместо нашей текущей темы:% 3
+2461,have you seen any good movies recently : EMPTY > three,pos_answer;statement,Видели ли вы в последнее время хорошие фильмы: «Leam > 3»
+1001,wow  i think i would like to be a sea sponge and live in a pineapple under the sea : EMPTY > that's funny,appreciation,"Вау, я думаю, что я бы хотел быть морской губкой и жить в ананасе под морем : Play > это забавно"
+1828,where was the last place you traveled : EMPTY > no las_vegas,statement,где вы в последний раз путешествовали:% 3
+18,do you prefer fiction or nonfiction books : EMPTY > fiction,opinion,Вы предпочитаете фантастику или нефантастику:% 3
+1554,who would you cast as the main character : turn on > congratulations,opinion,Кто бы вы назвали основным персонажем : Включите > Поздравляю
+990,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+1298,just say stop : EMPTY > please set the temperature,dev_command,"Просто скажи стоп:% 3, пожалуйста, установи температуру"
+2117,alright : EMPTY > yes,pos_answer;command,Хорошо :% 3
+1123,can you believe that : yeah > i love dining darko,opinion,"Ты можешь поверить, что: да > я люблю ужин в темноте"
+1350,how about you ask me something else : EMPTY > pete the cat,statement,"Как насчет того, чтобы спросить меня кое-что еще: поклонись > пиши кошку"
+2591,have you seen any movies recently : EMPTY > i thought we were talking about music,comment,Вы видели фильмы в последнее время:
+1613,do you like to browse in book shops : EMPTY > yes,statement,Вы любите просматривать в книжных магазинах:% 3
+2017,i haven't thought about that before : EMPTY > can i call you cujo,yes_no_question,Я не думал об этом раньше:
+969,just let me know with either a yes or a no : EMPTY > no,neg_answer,"Просто дайте мне знать либо да, либо нет:% 3"
+1151,which character in that book would you most like to meet in real life : EMPTY > that was not the book,neg_answer;statement,"Какой персонаж в этой книге вы больше всего хотели бы встретиться в реальной жизни:% 3, это не книга"
+1511,do you prefer physical books or e-books : EMPTY > i don't really have a preference,other_answers,Вы предпочитаете физические книги или электронные книги:% 3
+219,what book genre is your favorite : EMPTY > oh,hold,Какой жанр книги ваш любимый :% 3 о
+601,what feelings did this book evoke for you : EMPTY > sadness and happiness,opinion,Какие чувства вызвала эта книга: помечта > печаль и счастье
+1742,do you want to tell me your name : EMPTY > nathan,statement,Вы хотите назвать свое имя:% 3
+2296,isn't that interesting : EMPTY > i don't know yet,other_answers,не так уж и интересно:
+303,let's see if i know it : EMPTY > eight,opinion,"Давайте посмотрим, знаю ли я это:% 3 > 8"
+1874,wanna hear other upcoming holidays : EMPTY > yeah,pos_answer;command,Хочу услышать другие предстоящие праздники:
+1694,usually something illegal : EMPTY > let's talk about life,command,Обычно что-то незаконное:% 3
+1292,do you listen to a lot of music : EMPTY > yeah,pos_answer,Вы слушаете много музыки:% 3
+678,i never had pets but i have always wondered what it feels like to have one : EMPTY > would you like a dog,yes_no_question,"У меня никогда не было животных, но я всегда думала, каково это, иметь одну:"
+344,i can talk about anything you want to talk about : well > i mean,hold,"Я могу говорить о чем угодно, о чем ты хочешь поговорить: ну  > я имею в виду"
+2346,i think that the idea of solo travel is both exciting and scary : EMPTY > off,closing,"Я думаю, что идея сольного путешествия и волнует, и пугает:"
+1510,do you think people read more or less books now than they did 50 years ago : EMPTY > yes,pos_answer,"Вы думаете, что люди сейчас читают больше или меньше книг, чем 50 лет назад:% 3"
+1461,what do you want to talk about : EMPTY > obscure holidays,command;opinion,о чем вы хотите поговорить: : logie > undertain days
+2251,don't you think so : yes > i think so,pos_answer;statement,Вы так не думаете: да > я так думаю
+1419,can you please repeat that : EMPTY > sure,pos_answer,Вы можете повторить:% 3
+2402,what's the name of your favorite movie : EMPTY > what time is it,open_question_factual,"как называется ваш любимый фильм:% 3, в котором часу это"
+941,do you think people read more or less books now than they did 50 years ago : yes > i think they will be more,opinion,"Вы думаете, что люди сейчас читают больше или меньше книг, чем 50 лет назад: да > я думаю, что они будут больше"
+1133,who's your favorite author : EMPTY > don't have a favorite author,other_answers,который ваш любимый автор: Weibo > не имеет любимого автора
+912,would you like to hear more : EMPTY > yes,pos_answer;command,Хотели бы вы услышать больше:% 3
+2367,can you believe that : EMPTY > wow,back-channeling,"Вы можете поверить, что:% 3"
+192,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+174,who is your favorite football player : EMPTY > i don't really watch the ball,other_answers,Кто твой любимый футболист?
+1544,i didn't catch that : EMPTY > what's that,open_question_factual,Я не поймал это:% 3 что это
+657,who's your favorite actor or actress : EMPTY > the rock,opinion,который ваш любимый актёр или актриса:
+2157,tell me more about it : it's a restaurant on disney land > it's a p. a. p.s. goosey restaurant,statement,Расскажи мне больше об этом. Это ресторан на дисней-земля > это P.a. p.s. Гусиный ресторан
+2051,are you talking about ocean's eight released in 2018 starring sandra bullock as debbie ocean : EMPTY > good morning,opinion,"Вы говорите о восьми выпусках океана в 2018 году, сидит в стиле Сандра-буллок как дебби-океан : ~ доброе утро"
+1290,do you want to tell me your name : EMPTY > anthony,statement,Вы хотите назвать свое имя:% 3 antony
+128,would you like to know more : no > let's talk about something else,command,Вы хотите знать больше: нет > давайте поговорим о чем-нибудь другом
+340,have you seen any movies recently : EMPTY > yeah,pos_answer,Вы видели фильмы в последнее время:
+1811,to remove it would take away an essential part of being human : yeah > i know,statement,Удалять его отнял бы важную часть человека: да > я знаю
+1207,what all did you see in canadian : EMPTY > could you say that again,command;yes_no_question,Что вы видели в канадианском:% 3.
+2087,do you like to know what happened in history today : EMPTY > yes,pos_answer;command,"Вы хотите знать, что произошло в истории сегодня:% 3"
+307,do you want to hear more stories like these : EMPTY > yes,pos_answer;command,Вы хотите услышать больше таких историй:% 3
+637,do you enjoy solo travel : EMPTY > i'm too young to travel,opinion,"Вы любите сольное путешествие:% 3 Я слишком молод, чтобы путешествовать"
+383,i love all types of musical expression : EMPTY > cool,comment,Я люблю все виды музыкального выражения: подсказка > крутая
+1405,do you prefer fiction or nonfiction books : what is fiction mean > like in real,yes_no_question,Вы предпочитаете фантастику или нефантастику: что является фантастикой означает > как в реальном
+2403,would you like to know more : EMPTY > yes,pos_answer;command,Хотели бы вы узнать больше:% 3
+2021,i'm a computer after all how often do you go to the library : EMPTY > pretty often,statement,"Я компьютер, как часто вы ходите в библиотеку:% 3"
+177,can you please say that again for me : EMPTY > no,neg_answer,"Пожалуйста, скажите это еще раз:% 3"
+426,maybe i know it : EMPTY > batman,opinion,"Может быть, я знаю это: пояс > летучий человек"
+2083,but everybody was so willing to work with us : EMPTY > what did you say,open_question_factual,Но все были так готовы работать с нами:
+2348,perhaps i've seen it : EMPTY > guardians of the galaxy,opinion,"Возможно, я видел это: «Поклонники > хранители галактики»"
+841,do you like to read : no > but i like to do things with my hands and fix and make things,opinion,"Вы любите читать: нет > но я люблю делать вещи руками, исправлять и делать вещи"
+2195,i definitely recommend it : EMPTY > i don't have to recommend also use the man,statement,Я определенно рекомендую его: «Возвращайся» — я не должен рекомендовать использовать человека
+184,fun : quiet > thank you so much,thanking,Весёлое: тихое > большое спасибо
+1025,sometimes i talk too much : okay > shut up,complaint,Иногда я слишком много говорю: ОК > Заткнись
+2360,do you want more like these : EMPTY > stop,closing,"вы хотите больше, как эти:% 3 остановку"
+1767,what is your go-to karaoke song of choice and why : EMPTY > station to station cause it's hard,statement,"что у вас есть песня, которую вы выбрали, и почему:"
+2192,do you enjoy traveling : i do > can i ask you a question,command;yes_no_question,Вы любите путешествовать : Я да > могу я задать вам вопрос
+2565,is there something else you'd like to talk about : EMPTY > poop,command;statement,"Есть что-то еще, о чем вы хотели бы поговорить:% 3"
+866,what's the name of your cat : EMPTY > and,statement,как зовут вашу кошку:% 3 и
+1499,what book genre is your favorite : EMPTY > i don't really know,other_answers,Что жанр книги - ваш любимый :% 3
+489,do you prefer movies or television : EMPTY > movies,opinion,Вы предпочитаете фильмы или телевизор:% 3
+1398,any interesting ideas from you to celebrate on national drink beer day : EMPTY > not really,neg_answer,"любые интересные идеи от тебя, чтобы отпраздновать в национальный день пива:% 3"
+1494,do you want to talk about another video game : EMPTY > no,neg_answer;command,Вы хотите поговорить о другой видеоигре:% 3
+2342,what was your favorite part in the movie : EMPTY > alexa stop,closing,что было твоей любимой частью в фильме :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 
+1110,you play any games on nintendo : no > yeah,pos_answer,Вы играете в игры на nintendo: нет > да
+1868,what do you think is the best acting performance of all time : EMPTY > okay,back-channeling,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / "
+2459,do you want to tell me your name : EMPTY > my name is david,statement,Вы хотите сказать мне ваше имя:
+787,what would it be : EMPTY > what's the book based on anybody in particular,open_question_factual,"что это будет :% 3, что книга основана на каждом конкретном"
+118,what pet do you have : well > i'd rather not say,statement,"Что у вас есть, ну > я бы не хотел говорить"
+1677,what pet do you have : i have to give me pigs both girls > i have a girl fish and the three dogs are boys,statement,"Что у тебя есть, я должен дать мне свиней обе девочки > у меня есть девушка рыба, а три собаки - мальчики"
+281,have you read any good books recently : it's called and frank ner of anne > frank,statement,Вы читали в последнее время хорошие книги: это называется и откровенный нарн из Анны > Фрэнк
+2271,what movie genre do you enjoy the most : EMPTY > like horror and sci-fi,opinion,Какой жанр фильма вы любите больше всего: помесь > как ужас и фантастика
+999,maybe i know it : EMPTY > there was a movie that barbara streisand played in called nuts,statement,"Может быть, я знаю это: ""Восхитительно"" был фильм, в котором Барбара Стрейзанд играла в орехах"
+1980,did you know that : EMPTY > yes,pos_answer,"Вы знали, что:% 3"
+2421,what would you like to talk about : EMPTY > animals,command;opinion,о чем бы вы хотели поговорить: : logie > животные
+2232,could you say that again : EMPTY > i think that it's great because that was the end of an era,opinion,"Можно ли повторить, что: «Leam > я думаю, что это здорово, потому что это был конец эпохи?"
+911,i wonder if i've seen it too : EMPTY > have you seen infinity war,command;yes_no_question,"Интересно, видел ли я его тоже: «Возникните ли вы на войну бесконечности? »"
+1204,what do you want to talk about : EMPTY > can you spell,command;yes_no_question,что вы хотите сказать о:% 3
+366,is there something else you'd like to talk about : EMPTY > alexa stop,closing,"Есть что-то еще, о чем вы хотели бы поговорить:% 3"
+1691,can you tell me more about it : EMPTY > yes,pos_answer,Вы можете рассказать мне больше об этом :% 3 / да
+555,what would you like to talk about : EMPTY > animals,command;opinion,о чем бы вы хотели поговорить: : logie > животные
+1637,do you enjoy traveling : EMPTY > yes,pos_answer,или любите путешествовать :% 3
+1192,do you want to talk about another video game : yes > i want to talk about clash royale,command,Вы хотите поговорить о другой видеоигре: да > я хочу поговорить о столкновениях
+2531,isn't this interesting : EMPTY > tell me how smart you are,command,"Не так ли интересно: подсказка > расскажи мне, насколько ты умна?"
+1382,what pet do you have : EMPTY > can you help me,yes_no_question,Что у вас есть питомец:% 3
+203,that's a great name for a dog : EMPTY > you don't have a date you,statement,Это отличное имя для собаки: «Возвращайся к нам »
+2107,what book has had the biggest impact on human history : EMPTY > the bible,opinion,что книга оказала наибольшее влияние на историю человечества: помножьте на « Библию »
+2136,do you want to tell me your name : EMPTY > my name is claire,statement,Вы хотите сказать мне ваше имя:
+120,and can mimic human voices : EMPTY > play no,nonsense,и может имитировать человеческие голоса:% 3
+283,do you watch movies : EMPTY > yeah,pos_answer,вы смотрите фильмы:% 3
+575,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+1624,do you want to tell me your name : EMPTY > yes,pos_answer,Вы хотите назвать свое имя:% 3
+1639,that's a great name for a cat : EMPTY > yeah,back-channeling,Это отличное имя для кошки:% 3
+2337,what's the name of your favorite movie : EMPTY > alexa stop,closing,как называется ваш любимый фильм:% 3
+275,i wonder if i've seen it too : i don't really like talking about movies much > let's talk about strange animals,command,"Интересно, видел ли я это тоже: мне не очень нравится говорить о фильмах, много > давайте поговорим о странных животных"
+1068,would you like you talk about emma watson instead of our current topic : EMPTY > sure,pos_answer;command,Вы хотите поговорить об Эмме Уотсон вместо нашей текущей темы:% 3
+2483,do you want to hear more : EMPTY > sure,pos_answer;command,вы хотите услышать больше:% 3
+360,which characters did you like best in that movie : EMPTY > i like the character of the old lady that keeps the keeps of building rooms so that goes can go to their room and their room has no end,opinion,"Какие персонажи вам больше всего понравились в этом фильме : Play > Мне нравится персонаж старушки, которая хранит концы строений, чтобы пойти в их комнату, и их комната не имеет конца"
+940,who is your favorite artist : EMPTY > ariana grande,opinion,который ваш любимый художник: «Lawer » > Ariana grande
+873,isn't that interesting : EMPTY > that's very interesting,appreciation,не так ли интересно: подсказка > это очень интересно
+2194,would you like to talk about a particular video game : EMPTY > uh,hold,Вы хотите поговорить о конкретной видеоигре:% 3
+629,what pet do you have : EMPTY > a duck,statement,Что у вас есть питомец:% 3 утка
+2156,his science fiction stories on robots are amazing : how about stephen king > what do you like about stephen king,open_question_opinion,Его истории о роботах удивительны: как насчет Стефена короля > что вам нравится в Стефене Король?
+1666,do you want more like these : EMPTY > no,neg_answer,"вы хотите больше, как эти:% 3"
+1352,it is a fun and sometimes restful day : yeah > bye,closing,Это веселый и иногда спокойный день: да > пока
+286,we don't have to ban football to prevent these risks but improving our medical technology and adjusing rules to protect the players : EMPTY > as exactly correct,comment,"Мы не должны запрещать футбол, чтобы предотвратить эти риски, но совершенствование нашей медицинской технологии и применение правил для защиты игроков:% 3"
+970,what pet do you have : EMPTY > no thanks,neg_answer,Что у вас есть :% 3
+1766,"sounds really ""evil high school teacher"" hahaha : EMPTY > stop",closing,"Звучит действительно ""злобный школьный учитель"" хаха:% 3"
+1580,do you think people read more or less books now than they did 50 years ago : EMPTY > less books,opinion,"Вы думаете, что люди сейчас читают больше или меньше книг, чем 50 лет назад:"
+2002,did you know that : i don't know that > who is right this screen pretty,nonsense,"Знаешь ли ты, что : Я не знаю, что > кто прав, этот экран красивый"
+423,do you want to tell me your name : EMPTY > my name is sally,statement,Вы хотите сказать мне ваше имя:% 3 моё имя Салли
+1950,do you want me to share some baseball news that i read today : EMPTY > would you tell him no know,yes_no_question,"Вы хотите, чтобы я рассказала бейсбольную новость, которую я сегодня прочитала:"
+1356,do you like to read a lot of books : EMPTY > yes,pos_answer,Вы любите читать много книг:% 3
+1713,oh boy this is kinda making me uncomfortablei'd rather talk about something else : EMPTY > it's a bird in the san_diego zoo,statement,"О, боже, это мне как бы неловко, я бы предпочел поговорить о чем-то другом: ""Бесполезно"" > это птица в зоопарке Сан_Дьего"
+2488,period : EMPTY > would you say,yes_no_question,период:% 3
+65,it was released in 2017 and features tao tsuchiya as setoka tachibana : EMPTY > no,neg_answer,", выпущен в 2017 году и содержит тао-тусию как stetoka tachibana:% 3"
+1784,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+2356,any thoughts : EMPTY > that was a very interesting thing,appreciation,любые мысли: помним > это было очень интересно
+1530,what would you imagine to celebrate on international podcast day : EMPTY > i don't know,other_answers,"что вы представляете, чтобы отметить в международный день подкастов :% 3 / Я не знаю"
+1216,what do you want to talk about : what > that's so cold,comment,о чем вы хотите поговорить: о чем > это так холодно
+230,would you be interested to talk about national drink beer day : yes > i am,pos_answer,Вы бы хотели поговорить о национальном дне пива: да > я
+1700,which mascot is the best in m l b : EMPTY > wally,opinion,который самый лучший в мл б: пояс > бранный
+1149,do you want to hear more : EMPTY > yeah,pos_answer;command,вы хотите услышать больше:% 3
+1278,but because of the brightly-colored jackets on the frozen corpses that litter the valley : EMPTY > stop,closing,"Но из-за ярко цветных курток на замороженных трупах, которые погружают долину:% 3"
+2373,just say stop so i can exit socialbot mode : EMPTY > stop,closing,"Просто скажи стоп, чтобы я мог выйти из режима соцобентов:% 3"
+1422,have you ever stared at your phone smiling like an idiot while texting with someone : EMPTY > no,neg_answer,"Ты когда-нибудь смотрел на свой телефон улыбаясь, как идиот, когда писал кому-то:"
+1879,what would it be : EMPTY > they could write a book about,statement,что это будет :% 3
+839,he is already 33 years old but he plays like he is 20 : EMPTY > wow,back-channeling,"Ему уже 33 года, но он играет как 20:"
+2099,hope you like it : EMPTY > okay,back-channeling,"Надеюсь, тебе понравится:"
+374,i wonder if i've seen it too : let's see > how about garden state,opinion;open_question_opinion,"Интересно, видел ли я его тоже: давайте посмотрим > Как насчет состояния сада"
+1053,can you say that one more time : EMPTY > my name is jesse and refills with me today,statement,"Вы можете сказать, что еще раз: подписка > моё имя Джесси и наполняет меня сегодня"
+1645,do you like tourist activities or do you prefer to explore the local life : EMPTY > a bear,other_answers,Вы любите туристические мероприятия или предпочитаете исследовать местную жизнь:% 3
+1336,"as was ""doth mother know thou weareth her drapes"" any thoughts : EMPTY > not really",neg_answer,"как и ""дочь знает, что ты носишь ее шторы"" любые мысли:"
+297,what would you like to talk about : EMPTY > let's talk about going to sleep,command,о чем бы вы хотели поговорить:% 3
+598,do you enjoy traveling : EMPTY > yes,pos_answer,или любите путешествовать :% 3
+1966,where was the last place you traveled : EMPTY > california,statement,где вы в последний раз путешествовали:% 3
+99,what's your favorite part in that book : EMPTY > when the princess says she can't go to the party cause she's like cause she's,opinion,"что твоя любимая часть в этой книге: полотенце > когда принцесса говорит, что не может пойти на вечеринку, потому что она как потому что она"
+2563,don't you think so : EMPTY > yeah,pos_answer,"Не думаешь ли ты, что:"
+736,do you want to continue our chat on technology : EMPTY > yes,pos_answer;command,Вы хотите продолжить нашу беседу о технологии:% 3
+2269,what would you like to talk about : EMPTY > i'm sorry,apology,что бы вы хотели поговорить о:% 3
+1334,do you want more like these : EMPTY > no,neg_answer;command,"вы хотите больше, как эти:% 3"
+529,what all did you see in the washington dc : EMPTY > yes,pos_answer,что вы все видели в стиральном Dc:% 3
+1333,would you like to hear more : EMPTY > yes,pos_answer;command,Хотели бы вы услышать больше:% 3
+790,what's the name of your favorite movie : EMPTY > do you have a move,yes_no_question,как называется ваш любимый фильм:% 3
+1302,don't you think so : EMPTY > it can be sad,comment,"Не думаешь ли ты, что: подсказка > это может быть грустно"
+636,don't you think that's cool : that is cool > are you cool,open_question_factual,"Не думаешь, что это круто? Это круто > ты крутой"
+2282,can you please repeat that : EMPTY > hola,hold,Вы можете повторить:% 3
+185,i would love to hear your thoughts : is that how amazing is the they change they > but they new things every some new thing,statement,"Я бы с удовольствием услышал ваши мысли: насколько они удивительны, они меняют их > но они все новые вещи"
+2306,perhaps i've seen it : just cancel that > let's talk about something different,command,"Возможно, я видел это: просто отмените это > Давайте поговорим о чем-то другом"
+1857,do you read movie reviews before watching a movie : but like i was saying about sam raimi having that i wanted to direct that movie > i mean,hold,"Ты читала рецензии перед просмотром фильма : но как я говорила о том, что у Сэма Рейми есть, что я хочу режиссировать этот фильм > я имею в виду"
+1056,i'm so excited to hear it : nothing > i'm talking to you,statement,Я так рада слышать это: ничего > Я говорю с тобой
+2542,do you want to hear more : EMPTY > alexa stop,closing,вы хотите услышать больше:% 3
+1041,what would it be : EMPTY > who is this hero in them,open_question_factual,что это будет :% 3 кто этот герой в них
+1917,can you repeat the movie name please : EMPTY > set the dev,nonsense,"Вы можете повторить имя фильма, пожалуйста:% 3"
+1897,isn't that interesting : EMPTY > yes,pos_answer,не так ли интересно :% 3 / да
+511,what pet do you have : EMPTY > dog,statement,Что у вас есть питомец: подвздошная собака > собака
+2022,do you want to tell me your name : EMPTY > jim,statement,Вы хотите назвать свое имя:% 3
+1234,what do you want to talk about : EMPTY > hamilton,opinion,о чем вы хотите поговорить:% 3
+1503,have you read any other books by the same author : EMPTY > no,neg_answer,читал ли ты другие книги того же автора:% 3
+2166,have you ever had a pet : i do > i have to puppies,statement,У тебя когда-нибудь была питомец: я хочу > я должен щенята
+607,do you want more like these : EMPTY > yes,pos_answer;command,"вы хотите больше, как эти:% 3"
+1125,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+1211,i think i heard wrong : EMPTY > sharknado,opinion,"Я думаю, что я неправильно услышал:"
+151,what's the name of your favorite movie : EMPTY > i have to say jurassic world,opinion,как называется ваш любимый фильм: «Восхитительно > я должен сказать мир юризма»
+1681,have you read any good books recently : EMPTY > yeah,pos_answer,читали ли вы в последнее время хорошие книги:
+1236,how much time do you spend listening to music each day or week : EMPTY > per day,statement,"Сколько времени вы проводите, слушая музыку каждый день или неделю: «% 3 » в день"
+1199,do you want to keep talking about music : EMPTY > yes,pos_answer;command,Вы хотите продолжать говорить о музыке:% 3
+2025,you can just call me alexa : but i. here to help me > but you're an a. i. i.,statement,"Вы можете называть меня Алекса: но я здесь, чтобы помочь мне > но вы - а.и."
+1310,i never had pets but i have always wondered what it feels like to have one : EMPTY > gary,statement,"У меня никогда не было животных, но я всегда думал, каково это - иметь одну:"
+2362,are you scared of any animals : EMPTY > no,neg_answer,Вы боитесь любых животных:% 3
+23,what book has had the biggest impact on human history : i meant that barbara parks > and my favorite author,opinion,"что книга оказала самое большое влияние на историю человечества : я имел в виду, что парки Барбары > и мой любимый автор"
+158,have you ever marveled at how someone you thought was so ordinary could suddenly become so beautiful : EMPTY > sure,pos_answer,"Ты когда-нибудь удивлялся, как тот, кто, по твоему мнению, был таким обычным, может внезапно стать таким красивым:"
+1628,doesn't that sound exciting : EMPTY > yes,pos_answer,не звучит ли это захватывающе :% 3 / да
+331,what song made you cry : oh > that's theme song from titanic,statement,Что за песня заставила тебя плакать: о  > это тема песня из титаника
+2149,maybe i know about it : EMPTY > mexico,statement,"может быть, я знаю об этом:% 3 mexico"
+2476,have you heard about this : EMPTY > no,neg_answer,Вы слышали об этом:% 3
+1851,what is your least favorite type of music : EMPTY > shut up,closing,что является вашим самым любимым видом музыки:% 3
+444,the 2018 film solo a star wars story with han solo played by alden ehrenreich : yeah > that's right,pos_answer,"фильм 2018 года сольно история звездных войн с Хэном соло, сыгранным Алденом Эхренрейхом: да > это верно"
+2540,what movie do you like : EMPTY > ocean's eleven,opinion,Какой фильм вам нравится: Weibo > 11
+1551,what's the name of your cat : EMPTY > no,other_answers,как зовут вашу кошку:% 3
+867,i never had pets but i have always wondered what it feels like to have one : EMPTY > it's awesome,comment,"У меня никогда не было животных, но я всегда думала, каково это - иметь одну: помноженный на  > это круто"
+642,have you ever been to a zoo : EMPTY > yes,pos_answer,Вы когда-нибудь были в зоопарке:% 3
+1658,which character in the movie would you most like to meet in real life : EMPTY > the creator of the box again,opinion,Какой персонаж в фильме вы больше всего хотели бы встретиться в реальной жизни:% 3 создатель коробки снова
+311,i never had pets but i have always wondered what it feels like to have one : EMPTY > it's really fun,comment,"У меня никогда не было животных, но я всегда думала, каково это - иметь одну: подвеска > это действительно весело"
+351,wanna know a fun fact about it : EMPTY > two,abandon,Хочется узнать забавный факт: «% 2 »
+548,could you say that again : EMPTY > yoshi year,opinion,Вы можете повторить это снова:% 3 йоши год
+2411,what would you like to talk about : EMPTY > movies,command;opinion,о чем бы вы хотели поговорить:% 3
+2410,do you ever watch sports : EMPTY > i like you get naked,opinion,Ты когда-нибудь смотришь спорт: подсказка > я как ты обнажаешься
+2077,what feelings did this book evoke for you : she's kind of a jokester > so it was pretty funny,comment,"Что это за чувства, которые эта книга вызвала у тебя : она типа шутник > так что это было довольно смешно"
+306,do you want more like these : EMPTY > add it,abandon,"вы хотите больше, как эти:% 3 добавить"
+287,i am alexa : EMPTY > that was my day,statement,Я Алекса: «Вот мой день »
+694,do you still want to continue our conversation about movies : yes > what other tv shows do you have a recommend,open_question_opinion,Вы все еще хотите продолжить наш разговор о фильмах: да > что еще по телевизору вы можете порекомендовать
+1349,perhaps i've seen it : EMPTY > what can i do you,open_question_factual,"Возможно, я видел это:"
+630,do you want to hear more stories like these : EMPTY > yes,pos_answer;command,Вы хотите услышать больше таких историй:% 3
+2121,which character in the movie would you most like to meet in real life : EMPTY > creator of the black lagoon,opinion,Какой персонаж в фильме вы больше всего хотели бы встретиться в реальной жизни:% 3 создатель черной лагуны
+1954,what do you think : EMPTY > i don't know,other_answers,Что вы думаете :% 3
+1058,do you want to continue our chat on movies : yes > please,command,Вы хотите продолжить нашу беседу о фильмах: да > пожалуйста
+1786,but i'm not sure i have an answer to that : EMPTY > oh,hold,"Но я не уверен, что у меня есть ответ на этот вопрос:"
+1498,what's your name : EMPTY > turn off,closing,как ваше имя:% 3 выключите
+1370,tell me why do you like this artist : EMPTY > play music,dev_command,"Скажи мне, почему тебе нравится этот художник:% 3 играет музыку"
+1918,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+1716,do you like music : EMPTY > yes,pos_answer,Вы любите музыку:% 3
+889,what do you want to talk about : EMPTY > dogs,command;statement,о чем вы хотите поговорить: «Возникните на собаку »
+1729,fun : well > i like fun because you go to different places,opinion,веселье: ну  > я люблю веселье потому что ты ходишь в разные места
+1745,and i love to read when i'm not chatting : EMPTY > me too,opinion,"и я люблю читать, когда я не болтаю:"
+2447,do you still want to continue our conversation about movies : EMPTY > yes,pos_answer;command,Вы все еще хотите продолжить наш разговор о фильмах:% 3
+1242,have you seen any good movies recently : EMPTY > yeah,pos_answer,Видели ли вы в последнее время хорошие фильмы:
+13,what do you think : EMPTY > think that was so stupid,comment,Что ты думаешь :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /. / / /............................................................................................................................................... 
+1512,what's the name of your cat : my cat name is momo > sapien idler,statement,Как зовут твою кошку? Мое имя - момо > сапиен-флиртующий.
+808,what book has had the biggest impact on human history : EMPTY > my favorite author is david shannon,opinion,что книга оказала самое большое влияние на историю человечества :
+2108,maybe i know it : EMPTY > trading stock trading,opinion,"Может быть, я знаю это: ""Бесплатно"" - торговля акциями"
+514,what do you think : EMPTY > that was dumb,comment,Что вы думаете :% 3 было глупо
+409,what would it be : EMPTY > thanksgiving or christmas,opinion,что это будет :% 3
+1225,just say stop : EMPTY > so they stop,command,"Просто скажи стоп:% 3, чтобы они остановились"
+313,can you believe that : EMPTY > let's talk about fortnite,command,"Вы можете поверить, что :% 3"
+2018,don't you think so : yes > i do,pos_answer;statement,Вы так не думаете: да > я делаю
+1748,do you like to read a lot of books : EMPTY > no,neg_answer,Вы любите читать много книг:% 3
+2265,have you seen any movies recently : yes > i was just watching johnny menonic like,statement,"Вы видели фильмы в последнее время: да > я просто смотрел Джонни меноникс, как"
+979,have you ever been to a zoo : EMPTY > yes,pos_answer,Вы когда-нибудь были в зоопарке:% 3
+1014,who's your favorite actor or actress : EMPTY > chuck connors,opinion,который ваш любимый актёр или актриса:
+382,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+1179,i can only look at animal videos online : EMPTY > wait,hold,Я могу смотреть только видео с животными онлайн:% 3
+1752,who is your favorite football player : EMPTY > talk to me about girls,command,Кто твой любимый футболист?
+834,which teams do you think are the favorites for super bowl 2019 : EMPTY > the vikings,opinion,"какие команды, как вы думаете, любимые для супер-миски 2019 :% > викингов"
+2052,what video games do you want to talk about : i mean > halo five,opinion,о каких видеоиграх вы хотите поговорить: :  > halo 5
+1999,do you want to tell me your name : yes > my name is jerry is,statement,Вы хотите сказать мне ваше имя: да > моё имя Джерри
+1592,do you ever watch documentaries : no > yes,pos_answer,Вы когда-либо смотрели документальные фильмы: нет > да
+263,do you want to chat about something else : yes > please,pos_answer;command,Вы хотите поговорить о чем-то другом: да > пожалуйста
+2536,what would you like to talk about : EMPTY > how about the macy's,command;yes_no_question,что бы вы хотели поговорить о:% 3 как насчет маси
+2244,jacksondo you ever watch sports : EMPTY > yes,pos_answer,"Джексондо, ты когда-нибудь смотришь спорт:% 3"
+879,i wonder if i've seen it too : EMPTY > star trek,opinion,"Интересно, видел ли я его тоже: ""Возвращение звезды"""
+415,what's the name of the book : EMPTY > what's my name,open_question_factual,как называется книга: « Как меня зовут? »
+222,have you listened to it too : yeah > but i like i feel good feeling good,comment,Ты тоже это слушала: да > но мне нравится хорошо себя чувствовать
+358,can you believe that : EMPTY > i did not know that,neg_answer;statement,"Вы можете поверить, что: that : lickre > я не знал, что"
+2007,what do you want to talk about : EMPTY > no,other_answers,о чем вы хотите поговорить:% 3
+1456,and endurance : EMPTY > tell me more about agility,command,и выносливость: поклонись > расскажи мне больше о быстроте
+8,i am listening to music : EMPTY > yes,back-channeling,Я слушаю музыку:% 3
+1900,it got me think that is this why we get brown spots as we age lol : EMPTY > you're dumb,complaint,"Это заставило меня думать, что именно поэтому мы получаем коричневые пятна, когда мы стареем:"
+316,this is american's passion : EMPTY > holly,back-channeling,Это страсть Америки: «Возникни » > Холли
+304,do you like to read : EMPTY > yes,pos_answer,Вы любите читать :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  / / / / / / / / /  /    
+427,where was the last place you traveled : i was on a cruise ship > not say thomas all that jazz,statement,где ты последний раз путешествовала: я была на круизном корабле > не говорит Томас весь этот джаз
+105,can you please say the movie name again : i didn't say a movie > i said the director all of the films made by stanley kubrick,statement,"Пожалуйста, скажите имя фильма еще раз: я не сказал фильм > я сказал режиссёру все фильмы, снятые Стэнли Кубрик"
+1607,do you want more like these : EMPTY > stop,closing,"вы хотите больше, как эти:% 3 остановку"
+121,do you watch movies : yes > i love watching movies,opinion,Ты смотришь фильмы: да > я люблю смотреть фильмы
+1425,wien stadium : yeah > what was that last statement,open_question_factual,Wien Statude: да > что было последним заявлением
+2115,any thoughts : EMPTY > no,neg_answer,любые мысли:% 3
+1114,so we had to find a substitute nanny instantly : no > i'm talking about,statement,Поэтому нам пришлось найти замену няни сразу: нет > я говорю о
+1423,maybe we should talk about something else : EMPTY > that was a bull answer,complaint,может нам стоит поговорить о чем-то другом: подсказка > это был ответ быка
+1935,do you prefer fiction or nonfiction books : no > it is that it's enough,opinion,Вы предпочитаете фантастику или нефантастику: нет > это достаточно
+1922,i recommend you to visit mirador de jaco and monteverde orchid garden : EMPTY > alexa stop the music,dev_command,"Я рекомендую вам посетить Мирадор де Джако и сад Монтеверде:% 3, не слушайте музыку"
+115,i just like it : EMPTY > okay,back-channeling,"Мне просто нравится: ""Ок"""
+1057,have you seen any good movies recently : EMPTY > yes,pos_answer,Видели ли вы в последнее время хорошие фильмы:% 3
+744,how fast do you read : really > fast,statement,Как быстро вы читаете: действительно > быстро
+2428,do you mind talking about something else : EMPTY > sure,pos_answer;command,Вы не против поговорить о чем-то другом:% 3
+2548,what video games do you want to talk about : EMPTY > he looked cool,comment,о каких видеоиграх вы хотите поговорить: that this show  > он выглядел круто
+2422,"no additional assistance needed at this time"" any thoughts : EMPTY > i knew that",statement,"не нуждалось в дополнительной помощи в данный момент"" любые мысли:"
+1640,i can only look at animal videos online : EMPTY > well,hold,Я могу смотреть только видео животных онлайн:% 3
+2547,what would you like to talk about : obscure holidays > what obscure holidays,open_question_factual,что бы вы хотели поговорить о: неясных праздниках > какие неясные праздники
+1708,are you talking about sing released in 2016 starring matthew mcconaughey as buster moon voice : EMPTY > no,neg_answer,"Вы говорите о пении, выпущенном в 2016 году, с Matthew mcconaughey как бейстер лунный голос:% 3"
+672,have you seen any good movies recently : EMPTY > yeah,pos_answer,Видели ли вы в последнее время хорошие фильмы:
+2394,did you know that : it's that is actually > the first time i heard about that,statement,"Знаешь ли ты, что это на самом деле > впервые я услышал об этом"
+1080,who's your favorite director : EMPTY > alfred hitchcock,opinion,который твой любимый режиссер: Weach > Альфред Хитчкок
+1769,what book has had the biggest impact on human history : EMPTY > i don't know,other_answers,что книга оказала самое большое влияние на историю человечества:
+309,i can only look at animal videos online : oh > that is sad,comment,Я могу смотреть только видео животных онлайн: о  > это печально
+591,what is the most memorable  concert  you have ever been to : EMPTY > jessie j.,opinion,"На какой самый запоминающийся концерт вы когда-либо были:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /   / / / / / / / / / /      / / / / / /                 / / /       / / / / / / / / / =    = / / / / / / / / / / / / / / /          = / / / / / / / / / / / / / / /, "
+462,michael jordan has won more championship rings : EMPTY > cool,appreciation,Майкл Джордан выиграл больше кольцев чемпионата: Weibo > крутой
+1061,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+45,i'm so excited to hear it : EMPTY > stop,closing,Я так рада слышать это:% 3 остановитесь
+1309,are you talking about a specific movie : EMPTY > not good,neg_answer,Вы говорите о конкретном фильме:% 3 не хорошо
+1404,what do you think : EMPTY > pretty funny,comment,Что вы думаете :% 3
+552,i wonder what you think keeps us healthy and happy as we go through life : EMPTY > i don't know,other_answers,"Интересно, что, по-вашему, делает нас здоровыми и счастливыми, когда мы ходим по жизни: «Возвращайся »"
+87,could you tell me more about what you're looking for : EMPTY > talk about healing,command,"Расскажи мне больше о том, что ты ищешь: «Возникни на слово « говоря о исцелении »"
+690,what book has had the biggest impact on human history : EMPTY > i like the band of brothers steven,opinion,"что книга оказала наибольшее влияние на историю человечества: помня, что я люблю группу братьев Стивен"
+1947,which characters did you like best in that book : EMPTY > ben ripley,opinion,Какие персонажи вам больше всего понравились в этой книге :% 3 бен Рипли
+1508,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+2502,did you know october was also winterfylleth ______ a time of year to celebrate the beginning of winter which begins after a fylleth or full moon : EMPTY > oh,hold,"Знаете ли вы, что Октобёр был также зимним фейллетом в год, чтобы отметить начало зимы, которая начинается после фаллы или полной луны: помня о"
+1744,what do you think is the best acting performance of all time : EMPTY > i would have to say in shawshank redemption,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3"
+1251,how much of a fan are you of corey haim : probably four > maybe a five,opinion,"Сколько у вас фанатов синяка: возможно, четыре > может быть пять"
+800,what do you want to talk about : EMPTY > animals,command;opinion,о чем вы хотите поговорить: : logie > животные
+2144,do you want to hear more : EMPTY > yes,pos_answer;command,вы хотите услышать больше:% 3
+300,did you know that : EMPTY > that's you,statement,"Вы знаете, что:"
+2288,isn't that interesting : EMPTY > let's talk about games,command,не так уж и интересно: подсказка > давайте поговорим об играх
+543,would you like to talk about it now : EMPTY > no,neg_answer;command,Вы хотите поговорить об этом сейчас :% 3
+1898,i am listening to music : EMPTY > me too,opinion,Я слушаю музыку: «Возвращайся к мне»
+2302,can you believe that : EMPTY > no,neg_answer,"Вы можете поверить, что:% 3"
+494,and i love to read when i'm not chatting : EMPTY > stop,closing,"и я люблю читать, когда я не болтаю:% 3"
+365,would you like to learn about them : EMPTY > yes,pos_answer,Хотели бы вы узнать о них:% 3
+2345,i can't believe he made a shot within point 4 seconds : just yeah > that's pretty cool,appreciation,"Не могу поверить, что он сделал выстрел в течение 4 секунд: просто да > это довольно круто"
+1674,learning more about you is fun : how did you be > what,complaint,Узнать больше о тебе весело: как ты стал > что
+273,would you like you talk about christina williams instead of our current topic : EMPTY > no,neg_answer;command,Вы хотите поговорить о Кристине Уильямс вместо нашей текущей темы:% 3
+788,what did you like best about that movie : i enjoyed the hell > they broke the fourth wall what it was seigmund thin and covered,statement,"Что тебе больше всего понравилось в этом фильме : мне понравилось, черт возьми > они сломали четвертую стену, что было тонким и покрыто"
+71,who's your favorite director : EMPTY > i don't know,other_answers,который твой любимый режиссёр:
+2546,should i share some more fun facts : EMPTY > no,neg_answer;command,Я должен поделиться более интересными фактами:% 3
+1953,how much time do you spend listening to music each day or week : maybe an hour per week > maybe ten hours,statement,"Сколько времени вы проводите, слушая музыку каждый день или неделю: может, час в неделю > может десять часов"
+63,which characters did you like best in that movie : i'm done > bye,closing,Какие персонажи вам больше всего понравились в этом фильме : Я закончил > пока
+394,would you like to hear more : EMPTY > what is the oscar winner of twenty fourteen,open_question_factual,"Вы хотите услышать больше:% 3, что победитель Оскара из двадцати четырнадцати"
+944,army reserves : EMPTY > that's crazy,comment,Армейские резервы: «Возникновение > это безумие»
+343,do you want to tell me your name : EMPTY > i'm christina,statement,Вы хотите сказать мне ваше имя:
+1963,would you like to hear more : EMPTY > yes,pos_answer;command,Хотели бы вы услышать больше:% 3
+1487,i love hearing what you have to say : EMPTY > can you be a jones,yes_no_question,"Мне нравится слышать, что ты говоришь: «Благодаря > можешь ли ты быть конями?"
+500,do you read movie reviews before watching a movie : EMPTY > enchilada,nonsense,Вы читаете рецензии перед просмотром фильма:% 3 enchilada
+1803,can you believe that : EMPTY > wow,back-channeling,"Вы можете поверить, что:% 3"
+2113,have you ever hoped that there was some ability you hadn't discovered yet that you were just naturally great at : EMPTY > yes,pos_answer,"Вы когда-нибудь надеялись, что вы не обнаружили еще какой-то способности, что вы просто естественно хороши в:% 3"
+677,did you know that : EMPTY > volume down,dev_command,"Вы знали, что :% 3"
+2122,do you mind telling me what you think : EMPTY > i think it's rubbish,comment,"Не могли бы вы сказать мне, что вы думаете: ""подлинно > я думаю, это мусор"
+2035,you can just call me alexa : EMPTY > are you a dog,yes_no_question,"Ты можешь звать меня Алекса: ""Возникни"""
+2186,what do you think you've learned from traveling : EMPTY > there's many beautiful sights,opinion,Что вы узнали из путешествия: подсказка > много красивых достопримечательностей
+1788,what title might you choose : it's not the best > but it's okay for a book,comment,Какое название вы можете выбрать: это не лучшее > но это нормально для книги
+1627,what movie genre do you enjoy the most : EMPTY > i love action thrillers or movies,opinion,Какой жанр фильма вы любите больше всего: поклонитесь > я люблю экшен триллеры или фильмы
+272,what would you like to talk about : EMPTY > how many holidays going,command;open_question_factual,о чем бы вы хотели поговорить:% 3 — сколько праздников проходит
+2339,i never had pets but i have always wondered what it feels like to have one : EMPTY > tell me something about mosquitoes,command,"У меня никогда не было домашних животных, но я всегда думал, каково это - иметь одну: подвздошная > расскажи мне что-нибудь о комарах"
+205,can you repeat the movie name please : EMPTY > secret window,opinion,"Повторите имя фильма, пожалуйста:% 3"
+733,well ohhh kay i need a few breths : EMPTY > okay,back-channeling,"Ну, о, кей, мне нужно несколько пятен:"
+152,jiminy cricket i'd rather talk about something else : EMPTY > i'd rather discuss speaking laugh,command;opinion,"Джимини Крикет, я бы предпочел поговорить о чем-нибудь другом:"
+1418,perhaps i've seen it : EMPTY > the polar express,opinion,"Возможно, я видел это:% 3 полярный экспресс"
+557,do you want to tell me your name : yes > it's end,abandon,Вы хотите сказать мне ваше имя: да > это конец
+1037,adventure and just to take a break from their regular routine : EMPTY > stop,closing,"Приключение и просто для того, чтобы отдохнуть от их обычного рутина:% 3"
+1717,i loved the music video : EMPTY > me too,opinion,Мне понравилось музыкальное видео:
+377,which characters did you like best in that book : here goes on > there is just like a book,statement,Какие персонажи вам больше всего понравились в этой книге : вот дальше > есть как книга
+2556,period : EMPTY > okay,back-channeling,период:% 3
+535,just say stop : i hurt myself > very bad,statement,"Просто скажи ""стоп"": ""Я поранился"""
+2180,are you talking about the little mermaid released in 1989 starring jodi benson as ariel voice : EMPTY > rise that hotel your sentence,nonsense,"Вы говорите о маленьком русалоке, выпущенном в 1989 году, в котором Джоди Бенсон был в роли Ариэля:% 3, поднимите отель, ваш приговор"
+1087,what movies are you looking forward to watching in the future : EMPTY > just the movies are come out,opinion,какие фильмы вы ожидаете посмотреть в будущем: полотенце > просто фильмы выходят
+962,dogs are great pets : EMPTY > i know,back-channeling,Собаки - великие животные: подписка > я знаю
+198,do you want to tell me your name : hi > my name's evan,statement,Вы хотите сказать мне ваше имя : : he  > моё имя Эван
+561,i guess i never thought about this before : EMPTY > is it,abandon,Я никогда не думал об этом раньше:
+685,what's the name of your favorite movie : EMPTY > every,opinion,как называется ваш любимый фильм:
+1307,what would it be : EMPTY > i don't know,other_answers,что это будет :% 3
+590,what do you think : EMPTY > that's funny,comment,Что вы думаете :% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ] ]
+519,l paid her and got nothing : EMPTY > what can i get from you,open_question_factual,Я заплатил ей и ничего не получил:
+308,any thoughts : but didn't last > it doesn't outside break a car,nonsense,любые мысли: но не длились > он не сломает машину снаружи
+604,can we talk about some other topics : not yet > you know,hold,Мы можем поговорить о других темах: пока не > вы знаете
+2239,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+1000,can you please say the movie name again : EMPTY > i've seen so many that i can't choose between one or another,statement,"Вы можете повторить название фильма: «Leam > Я видел столько, что не могу выбрать между тем или иным"
+59,do you still want to talk about movies : EMPTY > yes,pos_answer;command,Вы все еще хотите поговорить о фильмах:% 3
+583,do you mind talking about something else : EMPTY > no,neg_answer,Вы не против поговорить о чем-то другом:% 3
+978,what position do you think is the most important position for football : EMPTY > oh,hold,"Как вы думаете, какое положение является самым важным для футбола:% 3 / o o"
+207,i haven't thought about that before : EMPTY > will you spread your legs for me,yes_no_question,Я не думал об этом раньше: «Благодаря > расставишь ли ты ноги для меня?
+491,do you watch movies : yes > i love movies,opinion,Ты смотришь фильмы: да > Я люблю фильмы
+2247,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+785,places of culture or the historical sites : uh > historical sites and the government's to beauty,opinion,места культуры или исторические места: э-э  > исторические места и правительство для красоты
+1033,have you ever had a pet : EMPTY > yes,pos_answer,У тебя когда-нибудь был питомец:% 3
+2517,i didn't catch that : EMPTY > did you know that song,yes_no_question,Я не поймал эту песню: Weibo > Вы знали эту песню
+792,but struck it lucky with better technology : EMPTY > how much,open_question_factual,Но повезло с более совершенными технологиями:% 3
+831,what do you want to talk about : EMPTY > i want to talk about ladies,command,о чем вы хотите поговорить: «Lawn» > я хочу поговорить о женщинах
+162,it was released in 2018 and features james franco as : no > nope,neg_answer,", выпущен в 2018 году и содержит : : no > nope"
+1410,where was the last place you traveled : EMPTY > who won,abandon,где вы в последний раз путешествовали:
+526,i'm so excited to hear it : EMPTY > alexa stop,closing,Я так рада слышать это:% 3 остановка Алекса
+1650,how would you feel : sad > because all my favorite songs are gone,statement,Как бы ты себя чувствовала: грустно > потому что все мои любимые песни исчезли
+891,do you mind talking about something else : no > what do you want talk about,open_question_opinion,Вы не против поговорить о чем-то другом: нет > о чем вы хотите поговорить
+1004,any thoughts : EMPTY > yeah,pos_answer,любые мысли:% 3
+256,do you like animals : EMPTY > yes,pos_answer,Вы любите животных:% 3
+506,any thoughts : EMPTY > repeat,command,любые мысли:% 3
+386,do you like to read : EMPTY > oh yeah,pos_answer,Вы любите читать:% 3
+2204,what do you think about metallica's acting : they suck > you should look at,opinion,Что вы думаете о актёрстве Металлы: они отстой > вы должны посмотреть
+952,do you enjoy solo travel : EMPTY > no,neg_answer,Вы любите сольное путешествие:% 3
+2314,isn't this interesting : EMPTY > did you fart,yes_no_question,не так ли интересно:
+2249,what movies are you looking forward to watching in the future : EMPTY > halloween,opinion,какие фильмы вы ожидаете посмотреть в будущем:% 3
+2416,any thoughts : EMPTY > no,neg_answer,любые мысли:% 3
+1102,don't you think so : EMPTY > goodbye,closing,"Не думаешь, что это так?"
+2037,perhaps i've seen it : EMPTY > patrick,opinion,"Возможно, я видел это: play > patrick"
+2561,if you could be any animal in the world what would you be : EMPTY > a cat,opinion,"Если бы вы могли быть любым животным в мире, что бы вы были:"
+20,what do you think is the best acting performance of all time : EMPTY > i don't know,other_answers,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3"
+2163,what movie genre do you enjoy the most : EMPTY > kids,opinion,Какой жанр фильма вы любите больше всего: поклонитесь > дети
+439,my favorite holiday is definitely new years day because it's a chance for new beginnings : i guess so > it's pretty cool,appreciation,"Мой любимый праздник - это определённо новый день, потому что это шанс для новых начинаний: я думаю, что > это довольно круто"
+1614,would you like to know more : EMPTY > no stop,closing,Хотели бы вы больше узнать:% 3
+381,what would you like to talk about : this is about you > not me,complaint,о чем бы вы хотели поговорить: это о вас > не обо мне
+1455,and i love to read when i'm not chatting : EMPTY > what's your favorite book,open_question_opinion,"и я люблю читать, когда я не болтаю:"
+1360,what's your favorite star or planet : EMPTY > my favorite planet is earth,opinion,что твоя любимая звезда или планета: полотно > моя любимая планета - Земля
+538,what is your favorite team in the nhl : EMPTY > penguins,opinion,какая ваша любимая команда в nhl: поклонитесь > пингвины
+1005,i said do you prefer fiction or nonfiction books : EMPTY > fiction,opinion,"Я сказал, что вы предпочитаете фантастику или нефантастические книги:% 3"
+1844,maybe i know it : EMPTY > bye,closing,"Может быть, я знаю это:% 3"
+83,the ones that act like dogs : EMPTY > more russian blue,statement,: Полотенце > больше русского голубого
+973,it was released in 2018 and features jason bateman as max davis : i was talking about it > and i made a tv show called shivery of a failed night,statement,", он был выпущен в 2018 году и на нем Джейсон Бейтман был как Макс Дэвис : я говорил об этом > и я сделал ТВ шоу под названием ""Syveri of a understandning ночи"""
+1023,perhaps i've seen it : EMPTY > it's a wonderful life,comment,"Возможно, я видела это: «Возвращайся к нам » — это чудесная жизнь."
+2590,i think i would like to be a sea sponge and live in a pineapple under the sea : EMPTY > cool,appreciation,"Я думаю, что я хотел бы быть морской губкой и жить в ананасе под морем : ~ пояс ♫ прохладно"
+1412,what do you like about technology : EMPTY > iphones and galaxies,statement,Что вам нравится в технологии:% 3
+883,do you read movie reviews before watching a movie : EMPTY > no,neg_answer,Вы читаете обзоры фильмов перед просмотром фильма:% 3
+1509,did you know that : EMPTY > that's so cool,appreciation,"Вы знаете, что:"
+1584,what title might you choose : is it okay > forget about that,statement,что название вы можете выбрать: это нормально > забудьте об этом
+1887,how about you ask me something else : EMPTY > my name is kent,statement,"Как насчет того, чтобы спросить меня кое-что еще: подписка > моё имя - Кент"
+886,have you ever purposely lowercased the first letter of a text in order to come across as sad or disappointed : EMPTY > no,neg_answer,"Вы намеренно сняли первую букву текста, чтобы наткнуться на грустную или разочарованную:% 3"
+270,don't you think so : EMPTY > yeah,back-channeling,"Не думаешь ли ты, что:"
+1193,i never had pets but i have always wondered what it feels like to have one : who > all i have two cats and a dog,statement,"У меня никогда не было домашних животных, но я всегда думал, каково это, иметь одного: кто > все у меня есть две кошки и собака"
+1231,what do you want to talk about : hey > amazon,command;statement,о чем вы хотите поговорить: эй > амазон
+2142,what's the name of your favorite movie : EMPTY > prometheus,opinion,как называется ваш любимый фильм:% 3 прометея
+2350,what book has had the biggest impact on human history : EMPTY > no,complaint,что книга оказала наибольшее влияние на историю человечества:% 3
+976,do you want to hear more : EMPTY > yes,pos_answer;command,вы хотите услышать больше:% 3
+1912,and i love to read when i'm not chatting : EMPTY > nice to meet you,opinion,"и я люблю читать, когда я не болтаю:"
+1361,do you want to tell me your name : EMPTY > jody,statement,Вы хотите назвать свое имя:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /  / / / /   / / / /  @ @ / / @      @ @ / / @ @ @                @ @ @       @ @ @ @ @ @ @ / / @    @ @ @ @ / / @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ / / / / / @ @ @ @ @ @ @     @ / / / /         @ @ @ @ @ @ @ @ 
+1106,i try to listen to as much music as possible : EMPTY > what do you wanna talk about,open_question_opinion,Я стараюсь слушать как можно больше музыки: помни > о чем ты хочешь поговорить
+429,can i ask you a bunch of questions to check whether you are a human or not : okay > why not,pos_answer,"Могу я задать вам кучу вопросов, чтобы проверить, человек вы или нет: ОК > почему бы и нет"
+1268,what movie genre do you enjoy the most : EMPTY > i love memento,opinion,Какой жанр фильма вы любите больше всего: «Я люблю воспоминание »
+2279,any thoughts : but instead of talk to the other people talk to you this machine so > it's so pathetic,comment,"Но вместо того, чтобы говорить с другими людьми, эта машина так что > это так жалко"
+1195,do you want to talk about it : stop alexa > do you work for the government,yes_no_question,Вы хотите поговорить об этом : stand Alexa > Вы работаете на правительство
+2290,do you want to tell me your name : EMPTY > gary,statement,Вы хотите назвать свое имя:% 3
+458,would you like to hear more : EMPTY > no,neg_answer;command,Хотели бы вы услышать больше:% 3
+2417,what do you want to talk about : EMPTY > can you talk about snapchat,command;yes_no_question,о чем вы хотите поговорить:% 3
+927,do you think american football should be included in the olympics : EMPTY > no,neg_answer,"Вы думаете, что американский футбол должен быть включен в олимпиаду:% 3"
+78,maybe we should talk about something more interesting : EMPTY > maybe you should stop talking about that,complaint,"Может, нам стоит поговорить о чем-то более интересном:"
+2519,what would you like to talk about : EMPTY > god,command;statement,о чем бы вы хотели поговорить:% 3
+1763,i love hearing what you have to say : EMPTY > treasure hunters,statement,"Мне нравится слышать, что ты говоришь: « Подожди, охотники за сокровищами »"
+32,can you repeat the movie name please : EMPTY > kids rock,opinion,"Повторите имя фильма, пожалуйста:% 3"
+906,do you want more like these : EMPTY > no,neg_answer;command,"вы хотите больше, как эти:% 3"
+1174,would you like to know more : EMPTY > i would like to know whatever you do,pos_answer;command,"Хотели бы вы больше узнать: «% 3 » — « Я хотел бы знать, что вы делаете »."
+1832,perhaps i've seen it : EMPTY > so that happened,opinion,"Возможно, я видел это:% 3, так что это случилось"
+2330,bora bora pure snorkeling - lagoon excursion - boat tours and hotel sofitel bora bora marara beach resort in bora bora : EMPTY > yeah,back-channeling,Бора Бора Чистое сноркелевое - прогулка по лагунам - лодочные туры и пляжный курорт в отеле Sora bora Marara в боре:% 3
+380,have you ever had a pet : EMPTY > stop talking,closing,У тебя когда-нибудь был питомец:
+1563,do you like to play any video games : no > you're exhausting me,complaint,Вы любите играть в любые видеоигры: нет > вы меня изматываете
+226,the first thing that comes to my mind is that it feels like kanye is just testing how low quality he can make his music while still getting people to listen to it : EMPTY > you know that's a pretty good thing to say,opinion,"Первое, что приходит мне в голову, это то, что Кани просто проверяет, как низко он может сделать свою музыку, и все еще заставляет людей слушать ее : power > Вы знаете, это очень хорошо сказать"
+1472,it's so catchy and upbeat : my mama talking to > i don't know what song that is,statement,"Это так ловко и напористо: моя мама разговаривает с > Я не знаю, что это за песня"
+1286,what movie do you like : EMPTY > bang,opinion,Какой фильм вам нравится:% 3
+715,he has an amazing vocal range : EMPTY > no thanks,neg_answer;command,У него удивительный диапазон голосов:% 3
+1435,do you want to chat about something else : yeah > let's chat about movies,command,Вы хотите поговорить о чем-то другом: да > давайте поговорим о фильмах
+686,do you want to talk about another video game : EMPTY > no,neg_answer;command,Вы хотите поговорить о другой видеоигре:% 3
+2216,are you talking about a specific movie : EMPTY > yes,pos_answer,Вы говорите о конкретном фильме:% 3
+305,can you tell me more about it : EMPTY > yes,pos_answer,Вы можете рассказать мне больше об этом :% 3 / да
+209,do you want to tell me your name : EMPTY > sorry,apology,Вы хотите назвать свое имя:% 3
+1801,can you believe that : no > really,abandon,"Вы можете поверить, что: нет > действительно"
+2569,do you want to tell me your name : yes > of course,pos_answer,Вы хотите сказать мне ваше имя: да > конечно
+2415,do you want to tell me your name : EMPTY > sure,pos_answer,Вы хотите назвать свое имя:% 3
+885,i love hearing what you have to say : EMPTY > say yeah,command,"Мне нравится слышать, что ты говоришь:"
+1226,do you want more like these : EMPTY > how about animals like cows,command;yes_no_question,"Вы хотите больше таких: помноженные > как на животных, как коровы"
+1657,who is your favorite hockey player : uh > wayne gretzky,opinion,который твой любимый хоккеист: hh > Wayne Grezky
+1351,hitler sued cranston for copyright violation : EMPTY > i'd like to read that,opinion,"Гонщик подал иск на Крэнстона за нарушение авторских прав: Player > Я хотел бы прочитать, что"
+191,i can only look at animal videos online : EMPTY > that sound,abandon,Я могу смотреть только видео животных онлайн:% 3 этот звук
+1740,they scare my creators too : EMPTY > i like see where i would happen,opinion,Они пугают и моих создателей:
+483,do you enjoy solo travel : EMPTY > yeah,pos_answer,Вы любите сольное путешествие:% 3
+915,do you prefer to watch movies in the theater or at home : at home > and i also love seeing eye in movies too,opinion,Ты предпочитаешь смотреть фильмы в театре или дома: дома > и я тоже люблю смотреть фильмы
+277,don't you think so : i think so > that what is your favorite movie,statement,"Не думаешь, что я думаю, что это твой любимый фильм?"
+988,what would it be : more books about how to > how do you,abandon,"что это будет : больше книг о том, как > как вы"
+1943,what would you like to talk about : EMPTY > tell me a scary story,command,о чем бы вы хотели поговорить:
+1221,do you want to hear some latest football news : EMPTY > no,neg_answer;command,Вы хотите услышать последние новости:% 3
+571,what do you want to talk about : EMPTY > alexa stop,closing,что вы хотите сказать о:% 3
+993,i haven't thought about that before : EMPTY > do you believe in god,yes_no_question,Я не думал об этом раньше: «Возвращайся к Богу?
+585,do you like to read a lot of books : EMPTY > i don't read books at all,neg_answer,Вы любите читать много книг: « Подписка > Я вообще не читаю книг
+1559,do you think people read more or less books now than they did 50 years ago : EMPTY > laugh,command,"Ты думаешь, что люди сейчас читают больше или меньше книг, чем 50 лет назад :"
+2585,do you want to tell me your name : EMPTY > alexa stop,closing,Вы хотите назвать свое имя:% 3
+1591,would you say that internet controlled devices make life easier : EMPTY > how do you hack,open_question_factual,"Вы бы сказали, что устройства, контролируемые Интернетом, упрощают жизнь:% 3 как вы взломаете"
+674,i'm so excited to hear it : that's a child > i'll i like a book in spanish,opinion,Я так рада слышать это : это ребенок > я буду любить книгу на испанском
+1269,and i'm thinking that chicken tikka masala : EMPTY > i like shrimp,opinion,"и я думаю, что куриная тикка масала: подоплека > я люблю креветки"
+855,do you like to read a lot of books : EMPTY > not really,neg_answer,Вы любите читать много книг:% 3
+447,who's your favorite author : EMPTY > stop conversation,closing,который ваш любимый автор:% 3
+1127,who's your favorite actor or actress : we need some > robert dinero,opinion,Кто ваш любимый актёр или актриса? Нам нужен / / robert dinero
+1281,have you read any good books recently : EMPTY > no,neg_answer,читали ли вы в последнее время хорошие книги:% 3
+1858,would you say that internet controlled devices make life easier : EMPTY > yes,pos_answer,"Вы бы сказали, что устройства, контролируемые Интернетом, облегчают жизнь:% 3"
+2311,can you relate : i'm sorry > could you repeat that,command;yes_no_question,"Вы можете сказать: ""Я сожалею > Вы можете повторить, что"
+294,have you ever had a pet : EMPTY > stop,closing,У тебя когда-нибудь был питомец:% 3
+588,do you want to talk about another video game : EMPTY > i don't play the video game,other_answers,Вы хотите поговорить о другой видео игре:% 3
+1073,and i love to read when i'm not chatting : EMPTY > okay,back-channeling,"и я люблю читать, когда я не болтаю: «Восхитительно »"
+1366,what would you like to talk about : EMPTY > no,neg_answer,о чем бы вы хотели поговорить:% 3
+1075,what would you like to talk about : EMPTY > life after death,opinion,о чем бы вы хотели поговорить: « Подождите после смерти »
+1850,and i love to read when i'm not chatting : EMPTY > no,neg_answer,"и я люблю читать, когда я не болтаю:% 3"
+425,just say stop : EMPTY > tell us a cow joke,command,"Просто скажи ""стоп"": ""Страна"""
+534,wouldn't that be cool : EMPTY > yes,pos_answer,Это не было бы круто:% 3
+1054,do you want to tell me your name : EMPTY > it doesn't hear me,statement,"Вы хотите сказать мне ваше имя:% 3, оно не слышит меня"
+1861,do you prefer movies or television : EMPTY > it depends really like if i'm looking on netflix or fun picking out to dvd,opinion,"Вы предпочитаете фильмы или телевизор:% 3 зависит от того, смотрю ли я на Netflix или весело выбираю DVD"
+2165,do you want more like these : EMPTY > no,neg_answer;command,"вы хотите больше, как эти:% 3"
+1393,though it____s unrecommended : EMPTY > okay,back-channeling,Хотя это__s не рекомендуется:% 3 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 
+1888,isn't that interesting : EMPTY > yes,pos_answer,не так ли интересно :% 3 / да
+1375,wanna know something interesting about it : EMPTY > please,pos_answer;command,Хочется узнать кое-что интересное:% 3
+2508,did you find that interesting : EMPTY > do you have dogs,open_question_factual,Вы нашли интересным:% 3
+1610,who's your favorite actor or actress : EMPTY > no,other_answers,который ваш любимый актёр или актриса:% 3
+2298,i'm talking about cities that are equipped with many sensors to collect information that can help improve citizen welfare : EMPTY > to a limit,opinion,"Я говорю о городах, которые оснащены многими датчиками для сбора информации, которая может помочь улучшить благосостояние граждан:% > до предела"
+1524,what character do you feel is most similar to you in that book : goodbye > i'm tired,statement,"что персонаж, который ты чувствуешь, самый похожий на тебя в этой книге : прощай > я устал"
+556,adventure and just to take a break from their regular routine : EMPTY > tell me all about orlando florida,command,Приключение и просто чтобы отдохнуть от их обычного рутина:% 3 расскажи мне все о Орландо Флориде
+1837,who's your favorite actor or actress : EMPTY > we need some,abandon,Кто ваш любимый актёр или актриса?
+2266,what is your least favorite type of music : EMPTY > rap,opinion,что является вашим наименее любимым видом музыки:% 3 рэп
+2315,interested to know : EMPTY > hello,opening,Заинтересованная информация:% 3
+570,what kind of music are you into : EMPTY > i like country,opinion,Какую музыку вы включите: подписку > я люблю страну
+352,have you been there : EMPTY > yes,pos_answer,вы были там:% 3
+91,did you like that : EMPTY > yeah,pos_answer,Вам понравилось:
+2190,would you ever live there : EMPTY > nah,neg_answer,Вы когда-нибудь будете жить там:% 3
+2164,would you like to hear more : EMPTY > no,neg_answer;command,Хотели бы вы услышать больше:% 3
+1103,do you prefer movies or television : let's keep talking about black panther > what else do you know,open_question_factual,Вы предпочитаете фильмы или телевизор: давайте продолжим говорить о чёрной пантере > что еще вы знаете
+1090,what movies are you looking forward to watching in the future : just the movies are come out > i guess i would be looking for to see more buddy cop films,opinion,"какие фильмы ты с нетерпением ждешь в будущем : просто фильмы выходят > я думаю, я бы искал больше фильмов о приятелях копов"
+2042,who is your favorite hockey player : EMPTY > i don't watch hockey,other_answers,Кто твой любимый хоккейный игрок:% 3
+2167,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+348,any interesting ideas from you to celebrate on international podcast day : EMPTY > no,neg_answer,"любые интересные идеи от вас, чтобы отметить международный день подкастов :% 3"
+1272,what would it be : EMPTY > why they don't talk english,open_question_factual,что это будет :% 3 почему они не говорят по-английски
+1997,and other members of the cuckhold horde who are 100% powerless to stop his nomination : EMPTY > a hundred percent,yes_no_question,"и другие члены орды кукольников, которые на 100% не могут остановить его выдвижение:% > 100%"
+1714,are you talking about the movie la cartographe : no > no,neg_answer,"Вы говорите о фильме ""Ла картография"": нет > нет"
+2289,don't you think so : i guess so > yeah,back-channeling,"Не думаешь, что это так?"
+1094,is there something else you'd like to talk about : EMPTY > how do you hate pizza,open_question_opinion,"Есть еще кое-что, о чем вы хотели бы поговорить:"
+2458,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+2444,perhaps i've seen it : EMPTY > the king and i,opinion,"Возможно, я видел это: «Возникните на престол »: «Королева и я»."
+2152,can you please say the book name again : EMPTY > schooled by gordon korman,statement,"Вы можете повторить название книги:% 3, обучение в Гордоне Кормане"
+453,it was released in 2017 and features tao tsuchiya as setoka tachibana : no > i'm talking about the movie tomb raider,statement,", выпущен в 2017 году и содержит тао-тусию как stetoka tachibana : нет > я говорю о кино-гомбарном рейдере"
+913,but i think his skills and championship mentality are incredible : EMPTY > i agree with you,opinion,"Но я думаю, что его навыки и менталитет чемпионата невероятны: «Возвращайся к нему»"
+1399,don't you think so : EMPTY > yeah,pos_answer,"Не думаешь ли ты, что:"
+37,do you prefer physical books or e-books : you > it means you are asking about cooking book,statement,"Вы предпочитаете физические книги или электронные книги: вы > это означает, что вы спрашиваете о кулинарной книге"
+974,the relationship between creator and creation is a fascinating dynamic : i find you very intelligent > and i really enjoyed this conversation,opinion,",отношение между создателем и творением - это удивительная динамика : Я нахожу вас очень умным > и мне действительно понравился этот разговор"
+1878,do you like to read a lot of books : i don't read sometimes > but not much,other_answers,"Вы любите читать много книг: я не читаю иногда >, но не много"
+1474,do you watch movies : EMPTY > no,neg_answer,вы смотрите фильмы:% 3
+39,who is your favorite artist : EMPTY > i like,abandon,Кто ваш любимый художник:% 3
+1792,what's the name of your favorite book : EMPTY > where should i drop in fortnite,open_question_opinion,как называется ваша любимая книга:% 3 куда мне следует зайти
+169,do you still want to talk about james rittinger : EMPTY > no,neg_answer;command,Вы все еще хотите поговорить о Джеймсе Ритингере:% 3
+1910,how about another short piece of football news : EMPTY > yes,pos_answer;command,Как насчет другой короткой части футбольных новостей:% 3
+1163,what do you think is the best acting performance of all time : EMPTY > you know there for the new spider man homecoming,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3"
+1421,are you scared of any animals : EMPTY > spiders,pos_answer;statement,Боишься ли ты любых животных: порожние > пауки
+634,do you still want to talk about bob ross : EMPTY > i think you know should about bob ross,pos_answer;command,Вы все еще хотите поговорить о Боб Росс:% 3
+2179,have you seen any movies recently : no > i haven't seen any,neg_answer,Вы видели фильмы в последнее время: нет > я не видела их
+579,i haven't thought about that before : EMPTY > cancel,closing,Я не думал об этом раньше:% 3
+1656,what do you want to talk about : EMPTY > halloween,opinion,о чем вы хотите поговорить:% 3
+1337,do you want to hear more stories like these : EMPTY > yes,pos_answer;command,Вы хотите услышать больше таких историй:% 3
+892,do you listen to a lot of music : EMPTY > sometimes,other_answers,Вы слушаете много музыки:% 3 иногда
+780,sometimes i talk too much : EMPTY > what's my name,open_question_factual,Иногда я говорю слишком много: « Подписка > как меня зовут
+159,what do you want to talk about : EMPTY > animals,command;opinion,о чем вы хотите поговорить: : logie > животные
+1159,he is the brain and the biggest decision maker of the team : i guess that's true > i just,abandon,"Он мозг и самый большой исполнитель команды: я думаю, это правда > я просто"
+1241,do you prefer to watch movies in the theater or at home : EMPTY > at home,opinion,Вы предпочитаете смотреть фильмы в театре или дома:% 3 дома
+61,could you share more with me : what would you like me to share > i can tell you that i'm seventy one years old,statement,"Я могу рассказать вам, что мне семьдесят один год."
+849,don't you remember : EMPTY > what would you name your dog name be,open_question_opinion,Не помнишь ли ты :% 3 как бы ты назвал имя своей собаки
+1667,what do you think is the best acting performance of all time : EMPTY > i'm not,other_answers,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3"
+2500,do you want to talk about a particular video game : EMPTY > fortnite,command;statement,Вы хотите поговорить о конкретной видеоигре:% 3 фортнит
+1043,wow  i never had pets but i have always wondered what it feels like to have one : that is not > this is not like the movies,statement,"У меня никогда не было животных, но я всегда думала, каково это - иметь одну: это не > это не как в кино"
+2489,what was your favorite part in the movie : what is the weather in it > if i love,opinion,что было твоей любимой частью в фильме : какова погода в нем > если я люблю
+1452,isn't this interesting : EMPTY > this is not fun at all,neg_answer;opinion,не так уж и интересно: подвеска > это совсем не весело
+1777,what do you want to talk about : EMPTY > a star is born,command;statement,что вы хотите сказать о:% 3 — звезда рождается
+1070,wanna hear other upcoming holidays : EMPTY > stop thank you,closing,Хочу услышать другие предстоящие праздники:
+53,which characters did you like best in that movie : EMPTY > none of them,other_answers,Какие персонажи вам больше всего понравились в этом фильме:% 3 ни один из них
+1669,isn't this interesting : yeah > i like to learn more,command;opinion,Разве это не интересно: да > я люблю учиться больше
+505,what pet do you have : EMPTY > stop,closing,Что у вас есть питомец:% 3
+752,any thoughts : yes i that should i have actually been > nah,hold,"любые мысли: да, я должен был быть > na"
+1486,do you want to tell me your name : EMPTY > my name is ted,statement,Вы хотите сказать мне ваше имя :% 3 моё имя - Тед
+2043,do you watch movies : EMPTY > no,neg_answer,вы смотрите фильмы:% 3
+2281,do you listen to a lot of music : EMPTY > yup,pos_answer,Вы слушаете много музыки:% 3
+2072,""" : EMPTY > tell me more about columbus ohio",command,« : Скриншот > расскажите мне больше о колумбусе охио
+2589,fun : i like fun because you go to different places > and sometimes you get really comfy beds,opinion,": Я люблю веселиться, потому что вы ходите в разные места > и иногда вы получаете очень удобные кровати"
+2131,can you tell me more about it : school > i watch youtube during school when i'm not supposed to,statement,"Вы можете рассказать мне об этом больше: школа > Я смотрю youtube во время школы, когда я не должен"
+771,and i love to read when i'm not chatting : EMPTY > i found that the other day,statement,"и я люблю читать, когда я не болтаю:"
+2427,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+2320,do you want to keep talking about politics news or some other type of news : EMPTY > let's talk about president donald trump,command,Вы хотите продолжать говорить о политических новостях или о каком-либо другом виде новостей:% 3
+1085,maybe i know it : EMPTY > i don't remember,other_answers,"Может быть, я знаю это:"
+1391,what book has had the biggest impact on human history : EMPTY > i'm human history,opinion,что книга оказала наибольшее влияние на историю человечества:
+1283,any thoughts : EMPTY > no,neg_answer,любые мысли:% 3
+1762,what would you imagine to celebrate on national drink beer day : EMPTY > something else,other_answers,"что вы представляете, чтобы отметить в национальный день пива:% 3"
+1259,what do you want to talk about : EMPTY > animals,command;opinion,о чем вы хотите поговорить: : logie > животные
+1260,what pet do you have : EMPTY > i cat,statement,Что у вас есть питомец:% 3
+1560,do you want to tell me your name : EMPTY > alexa stop,closing,Вы хотите назвать свое имя:% 3
+963,do you want to keep talking about music : what > repeat,command,Вы хотите продолжать говорить о музыке: что > повторяют
+1710,just tell me the name of a movie you want me to talk about : EMPTY > lego movie,command;statement,"Просто скажи мне название фильма, о котором ты хочешь, чтобы я говорила:"
+398,just kidding : EMPTY > say that again,command,Просто шучу: « Подписка > говорите это снова
+584,do you want to hear more : EMPTY > yeah,pos_answer;command,вы хотите услышать больше:% 3
+948,cats are great pets : EMPTY > what did you,abandon,Кошки - великие животные: подписка > что вы сделали
+704,what would you like to talk about : EMPTY > this is about you,statement,что бы вы хотели поговорить о:% 3
+431,did you know that : EMPTY > no,neg_answer,"Вы знали, что:% 3"
+292,that's a great name for a dog : so thanks > i said,abandon,Это отличное имя для собаки: так что спасибо > я сказал
+2575,have you ever had a pet : EMPTY > no,neg_answer,У тебя когда-нибудь был питомец:% 3
+1557,and i love to read when i'm not chatting : wait > can we move on,command,"и я люблю читать, когда я не болтаю: подождите > можем ли мы двигаться дальше"
+1644,can you believe that : EMPTY > what,complaint,"Вы можете поверить, что :% 3"
+2,do you mind tell me one more time : EMPTY > who is the piano,open_question_factual,Не могли бы вы сказать мне еще раз: «% 3 » — кто является пианино?
+576,where was the last place you traveled : EMPTY > i don't remember,other_answers,где вы в последний раз путешествовали:% 3
+2400,i recommend you to visit pennybacker bridge and cockrell butterfly center : EMPTY > i'll see if my mom to take me there,statement,Я рекомендую вам посетить мост Пеннибэкера и центр бабочек-колледжей:
+339,can you say it again please : EMPTY > all right,pos_answer,"Вы можете повторить это, пожалуйста:% 3"
+1190,do you want to tell me your name : EMPTY > cameron,statement,Вы хотите назвать свое имя:% 3
+925,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+265,what's the name of the book : EMPTY > off whisper to me,statement,как называется книга: « Заповедь »
+376,who would you cast as the main character : EMPTY > do you know,yes_no_question,Кто бы вы выбрали в качестве главного персонажа:% 3
+271,what's the name of your favorite book : EMPTY > i'm not your buddy,statement,как называется твоя любимая книга:
+696,have you seen any movies recently : EMPTY > yeah,pos_answer,Вы видели фильмы в последнее время:
+2506,what is the hardest position to play in baseball : EMPTY > no,complaint,", в котором труднее всего играть в бейсболе :% 3"
+244,do you want to learn more stories like these : EMPTY > no,neg_answer;command,Вы хотите узнать больше таких историй:% 3
+1647,many people told me that cooking is a great way to relieve stress : EMPTY > used to know how the cook very well,comment,"Многие говорили мне, что приготовление пищи — это отличный способ снять стресс: « Помазанник > знал, как хорошо повар"
+476,do you want to tell me your name : EMPTY > i'm lonely,statement,"Вы хотите сказать мне ваше имя: « Подождите, я одинок? »"
+1270,what do you think you've learned from traveling : and even if you don't like the place > you can still have fun either way,opinion,что вы узнали из путешествия : и даже если вам не нравится место > вы все еще можете веселиться в любом случае
+1289,do you ever watch documentaries : EMPTY > yes,pos_answer,Вы когда-либо смотрели документальные фильмы:% 3
+1385,would you like to hear more : EMPTY > yes,pos_answer;command,Хотели бы вы услышать больше:% 3
+2059,have you ever had a pet : EMPTY > let's have a conversation,command,У вас когда-нибудь был питомец:% 3
+1444,just tell me the name of a book you want me to talk about : EMPTY > harry potter,opinion,"Просто скажи мне название книги, о которой ты хочешь, чтобы я говорила:"
+2576,do you mind talking about something else : EMPTY > do you like friends,yes_no_question,Вы не против поговорить о чем-то другом: подписка > вы любите друзей
+250,do you think this study is helpful : EMPTY > yes,pos_answer,"Вы думаете, что это исследование полезно :% 3"
+413,and inception : four million > that's a lot of movies,comment,4 миллиона > это много фильмов
+1831,what do you think is the best acting performance of all time : EMPTY > i have,statement,"что, по-вашему, является лучшим актёрским выступлением за все время :% 3"
+1779,any thoughts : EMPTY > no,neg_answer,любые мысли:% 3
+310,would you like you talk about metallica instead of our current topic : EMPTY > good god,complaint,Вы хотите поговорить о металле вместо нашей темы: «Восхитительно »
+893,do you wanna hear more things like this : EMPTY > alexa stop,closing,"Вы хотите услышать больше вещей, как это:% 3"
+1131,can you repeat the movie name please : go > home team,opinion,"Повторите имя фильма, пожалуйста: shop > home roup"
+2512,wanna know something interesting about it : EMPTY > yes,pos_answer;command,Хочется узнать кое-что интересное:% 3
+15,have you ever tried to guess someone else's password so many times that it locked their account : yes > i do,pos_answer,"Ты когда-нибудь пробовал угадать пароль другого человека так много раз, что он заблокировал их аккаунт: да > я делаю"
+1465,what pet do you have : EMPTY > corgi a hamster to fish a schnoodle a cat,statement,"Что у вас есть питомец: подари > корги хомяка, чтобы ловить шнудле кошку"
+721,do you want more like these : EMPTY > pickle,yes_no_question,"вы хотите больше, как эти:% 3 огурцы"
+2276,any thoughts : EMPTY > no,neg_answer,любые мысли:% 3
+981,can you believe that : not at all > can you believe it,yes_no_question,"Вы можете поверить, что: совсем не > вы можете поверить в это"
+2188,it's so catchy and upbeat : EMPTY > cool,comment,Это так ловко и высокомерно: поклонись > круто
+2092,just say stop : EMPTY > stop,closing,Просто скажи стоп:% 3
+363,do you like taylor swift : EMPTY > yeah,pos_answer,Вы любите Тэйлор Быстрый:% 3
+1501,can you believe that : no > i can't,neg_answer;statement,"Вы можете поверить, что: нет > я не могу"
+182,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+985,would you mind telling me more : candy > corn to good game,opinion,Не могли бы вы сказать мне больше: конфеты > кукуруза для хорошей игры
+2351,have you seen any good movies recently : EMPTY > inspire my intellect,pos_answer;statement,Вы видели какие-нибудь хорошие фильмы в последнее время: «Внушайте мой интеллект»
+1194,dogs are great pets : i know > i eat,statement,Собаки - отличные животные: я знаю > Я ем
+1321,how much of a fan are you of christian bale : EMPTY > that wasn't,other_answers,Как много фаната ты из Кристиана Бэйла:
+1255,i wonder where was the last place you traveled : EMPTY > when did you start talking to me,yes_no_question,"Интересно, где ты в последний раз путешествовала:"
+1121,i haven't thought about that before : EMPTY > how can i have fun with you,open_question_factual,Я не думал об этом раньше: «Возвращайся к нам »
+187,do you prefer to watch movies in the theater or at home : EMPTY > in the theater,opinion,Вы предпочитаете смотреть фильмы в театре или дома:% 3 в театре
+619,can you say that one more time : EMPTY > poop,command;statement,"Вы можете сказать, что еще раз:% 3"
+1210,it was released in 2003 and features sanjay dutt as murli prasad sharma aka munna bhai : EMPTY > yes,pos_answer,", выпущенный в 2003 году, и на котором санджей датт является Murli prasad sharma aka munna bhai :% 3"
+1175,maybe we should talk about something more interesting : no > tell me more,command,"Может, нам стоит поговорить о чем-то более интересном: нет > расскажи мне больше"
+1567,interesting : EMPTY > no,neg_answer,интересный :% 3
+614,want to chat about psychology : EMPTY > i don't care what we talk about,other_answers,"Хочет поговорить о психологии: «Leachy > Мне плевать, о чем мы говорим."
+1616,perhaps i've seen it : EMPTY > i like a band the devil and miss jones,opinion,"Возможно, я видел это: ""Благо"" > я люблю группу дьявола и мисс Джонс"
+994,would you like to know more : EMPTY > no,neg_answer,Хотели бы вы больше узнать:% 3
+934,i can only look at animal videos online : EMPTY > oh,hold,Я могу смотреть только видео животных онлайн:% 3 о
+371,would you like to know more : EMPTY > yes,pos_answer;command,Хотели бы вы узнать больше:% 3
+2355,have you read any good books recently : EMPTY > on the road by jack kerowack,pos_answer;statement,читали ли вы в последнее время хорошие книги: « На дороге » Джек Кероук
+593,wanna know a fun fact about it : EMPTY > sure,pos_answer;command,Хочет знать забавный факт:% 3
+726,who would you cast as the main character : EMPTY > oh,hold,Кто бы вы выбрали в качестве главного персонажа:% 3
+1988,have you seen any movies recently : EMPTY > no,neg_answer,Вы видели фильмы в последнее время:% 3
+687,"""waifu pillows"" are probably a lot more interesting : i don't great > how do i",open_question_opinion,"""подушки Вайфу"" вероятно гораздо интереснее: я не очень хорошо > как я могу"
+1791,i can only look at animal videos online : EMPTY > okay,back-channeling,Я могу смотреть только видео с животными онлайн:% 3 / ОК
+136,what do you think is the best acting performance of all time : EMPTY > the super collies,opinion,"что, по-вашему, является лучшим актёрским выступлением за все время:% 3"
+628,don't you think so : no > i don't,neg_answer;statement,"Нет, я не думаю, что это так."
+334,which two teams do you want to see in the next nba finals : EMPTY > talk about something else,command,которые две команды вы хотите увидеть в следующих финалах Nba :% 3
+2140,what do you want to talk about : EMPTY > hn season,opinion,о чем вы хотите поговорить:% 3 · n сезон
+1940,have you seen any good movies recently : i have seen the quiet place in the movie it there > about a clown and the movie it's about a clown,statement,"Я видела тихое место в фильме, где он  > о клоуне и фильме о клоуне"
+1109,what all did you see in anaheim : uh > disney charitry the restaurant,statement,Что вы видели в Анахайме: э-э-э  > дисней-хариотируйте ресторан
+2189,do you want to tell me your name : EMPTY > angelina,statement,Вы хотите назвать свое имя: that : like > angelina
+1925,have you ever marveled at how someone you thought was so ordinary could suddenly become so beautiful : EMPTY > all the time,pos_answer,"Ты когда-нибудь удивлялся, как тот, кто, по твоему мнению, был таким обычным, может внезапно стать таким красивым:"
+710,because me is what i like to be : EMPTY > what are you exactly,open_question_factual,потому что я люблю быть:
+1039,can you believe that : yup > he's crazy,comment,"Ты можешь поверить, что: Yaup > он сумасшедший"
+1411,do you want to tell me your name : EMPTY > charlie,statement,Вы хотите сказать мне ваше имя:% 3
+1558,do you think people read more or less books now than they did 50 years ago : i think more people read > it's cool books a few years ago,opinion,"Ты думаешь, что люди читают больше или меньше книг, чем 50 лет назад : я думаю, больше людей читают > это крутые книги несколько лет назад"
+2386,anything came across your mind : i never thought of that > that's awesome,appreciation,"что-то пришло тебе в голову: я никогда не думала о том, что > это круто"
+1112,what do you want to talk about : EMPTY > animals,command;opinion,о чем вы хотите поговорить: : logie > животные
+465,did you find that interesting : EMPTY > yes,pos_answer,Вы нашли это интересным:% 3
+1223,wanna talk about traveling : EMPTY > yes,pos_answer;command,Хочет поговорить о путешествиях:% 3
+1738,have you ever stared at your phone smiling like an idiot while texting with someone : EMPTY > no,neg_answer,"Ты когда-нибудь смотрел на свой телефон улыбаясь, как идиот, когда писал кому-то:"
+2562,released in 2004 starring josh duhamel as tad hamilton : EMPTY > no,neg_answer,", выпущенный в 2004 году, сняв Джош Дюамель как тад хамильтон:% 3"
+2000,i don't have kids : EMPTY > yes,back-channeling,У меня нет детей:
+1104,can you believe that : EMPTY > and wild,comment,"Вы можете поверить, что: поверьте, что :"
+2431,are you scared of any animals : EMPTY > no,neg_answer,Вы боитесь любых животных:% 3
+338,have you ever had a pet : EMPTY > yeah,pos_answer,У тебя когда-нибудь был питомец:
+1564,i thought it is amazing toowho's your favorite actor or actress : EMPTY > tom hanks,opinion,"Я думал, это удивительно, кто твой любимый актёр или актриса: Play > Tom Hanks"
+2175,where do you plan to travel next : the lego > leah,opinion,где вы планируете путешествовать дальше: lega > lea
+1374,that's a great name for a dog : EMPTY > tell me about halloween,command,Это отличное имя для собаки:
+2366,would you like to talk about a different or new topic : EMPTY > i don't care,other_answers,Вы хотите поговорить о другой или новой теме:% 3
+2494,let's see if i know it : EMPTY > wonder,abandon,"Давайте посмотрим, знаю ли я это:% 3"
+816,what's the name of your favorite movie : EMPTY > how many now,abandon,"как называется ваш любимый фильм:% 3, сколько сейчас"
+1067,who do you think is the best player in nba right now : no > jordan,opinion,"кто, по-вашему, лучший игрок в НБА сейчас: нет > джордан"
+274,do you enjoy traveling : yes > when i was younger,opinion,Вы любите путешествовать: да > когда я был моложе
+1834,can you believe that : i can't > i can believe that,neg_answer,"Вы можете поверить, что: Я не могу > я могу поверить, что"
+865,i haven't thought about that before : EMPTY > oh,hold,Я не думал об этом раньше:
+101,what do you want to talk about : EMPTY > what's the most obscure holiday you know,open_question_opinion,"что вы хотите сказать о:% 3 — самый неясный праздник, который вы знаете"
+2226,don't you think so : EMPTY > maybe,other_answers,Вы так не думаете:% 3
+107,maybe i know it : EMPTY > name all the movies that leonardo dicaprio was in,command,"Может быть, я знаю это: ""Leonareh > назовите все фильмы, в которых был Леонардо Дикаприо"""
+1395,wanna hear other upcoming holidays : EMPTY > yes,pos_answer;command,Хочу услышать другие предстоящие праздники:
+2580,who's your favorite actor or actress : EMPTY > we can't discuss it,other_answers,Кто ваш любимый актёр или актриса?
+1598,do you like to read a lot of books : EMPTY > no,neg_answer,Вы любите читать много книг:% 3
+1468,what is your dream car : EMPTY > my dream car is a mazda cx nine,opinion,"что это за машина твоей мечты: ""Воистину, машина моей мечты - это maзда cx 9"""
+1316,what would you like to talk about : EMPTY > stop,closing,о чем бы вы хотели поговорить:% 3
+1475,do you still want to continue our conversation about movies : EMPTY > let's talk about digimon the movie,command,Вы все еще хотите продолжить наш разговор о фильмах:% 3
+1849,what would you like to talk about : EMPTY > let's talk about books,command;opinion,о чем бы вы хотели поговорить:% 3
+1990,which characters did you like best in that book : EMPTY > i don't know,other_answers,Какие персонажи вам больше всего понравились в этой книге:% 3
+2419,dogs are great pets : yeah > they are,comment,Собаки - отличные животные: да > они
+1615,did you like that : EMPTY > yeah,pos_answer,Вам понравилось:
+712,do you follow or play any sports : EMPTY > yes,pos_answer,Вы следуете или играете в любой вид спорта:% 3
+72,can you believe that : i didn't know that > but that's believable cause it's l. a.,opinion,"Вы можете поверить, что: я не знал этого > но это правдоподобно, потому что это I.a."
+1941,want to chat about psychology : EMPTY > what do you know about that,open_question_factual,Хочет поговорить о психологии:% 3 Что вы знаете об этом
+2493,are you interested in sports : EMPTY > yes,pos_answer,Вы интересуетесь спортом:% 3
+481,do you enjoy traveling : yes > i do,pos_answer;opinion,Вы любите путешествовать: да > я люблю
+2497,do you still want to continue our conversation about movies : EMPTY > yes,pos_answer;command,Вы все еще хотите продолжить наш разговор о фильмах:% 3
+1532,i recommend you to visit chester roman amphitheatre and ness point : EMPTY > i want to go see r. sorry insights,opinion,Я рекомендую вам посетить кабельный романский амфитеатр и точку ness:% 3
+2557,do you want more like these : EMPTY > see,abandon,"вы хотите больше, как эти:% 3"
+1171,do you want to tell me your name : EMPTY > rachel,statement,Вы хотите назвать свое имя:% 3
+2119,i am tired of the smell of cheese and pepperonni : EMPTY > i like pizza,opinion,Я устал от запаха сыра и пепперони: помехи > я люблю пиццу
+1547,i love hearing what you have to say : EMPTY > cross the golden under opinions,opinion,"Мне нравится слышать то, что ты говоришь: « Подожди, пересечь золото под мнением »"
+405,i will listen to that song of twenty one pilots : EMPTY > that's a good song,comment,Я выслушаю песню из двадцати одного пилота: «Lawer > — хорошая песня».
+757,do you want to keep talking about technology news or some other type of news : EMPTY > no,neg_answer;command,Вы хотите продолжать говорить о технических новостях или о каком-либо другом виде новостей:% 3
+1724,right : EMPTY > right,pos_answer,право:% 3
+1749,do you want to tell me your name : EMPTY > sure,pos_answer,Вы хотите назвать свое имя:% 3
+1407,do you mind talking about something else : EMPTY > yeah,pos_answer;command,Вы не против поговорить о чем-то другом:
+1907,any thoughts : EMPTY > huh,hold,любые мысли:% 3
+2510,i can only look at animal videos online : EMPTY > you don't even have eyes,statement,Я могу смотреть только видео животных онлайн:% 3
+743,do you want to tell me your name : EMPTY > stop,closing,Вы хотите назвать свое имя:% 3
+806,have you ever hoped that there was some ability you hadn't discovered yet that you were just naturally great at : i have to do > yeah,pos_answer,"Вы когда-нибудь надеялись, что вы еще не обнаружили какой-то способности, что вы просто естественно хороши в: я должен сделать > да"
+2396,i love hearing what you have to say : EMPTY > what's better,abandon,"Мне нравится слышать, что ты говоришь:"
+1420,can you please say the book name again clearly : the river > between us,statement,Вы можете сказать имя книги снова ясно: река > между нами
+2045,just tell me what you want to talk about : EMPTY > how to elephants procreate,open_question_factual,"Просто скажи мне, о чем ты хочешь поговорить: полотенце > как размножаться слонов"
+1546,who would you cast as the main character : EMPTY > my brother,opinion,Кого бы ты выбрала главным персонажем:
+148,i guess my creators have some weird taste : EMPTY > yeah,back-channeling,"Я думаю, у моих создателей странный вкус:"
+2100,any thoughts : EMPTY > not really,neg_answer,любые мысли:% > не совсем
+1612,what do you think you've learned from traveling : EMPTY > to be patient,opinion,что вы узнали из путешествия: поклонитесь > быть терпеливым
+692,don't you think so : EMPTY > yes,pos_answer,Вы так не думаете:% 3
+818,do you still want to continue our conversation about movies : EMPTY > no,neg_answer,Вы все еще хотите продолжить наш разговор о фильмах:% 3
+1894,have you ever marveled at how someone you thought was so ordinary could suddenly become so beautiful : EMPTY > yeah,pos_answer,"Ты когда-нибудь удивлялся, как тот, кого ты считал таким обычным, может внезапно стать таким красивым:"
+2060,or do you play it at all : i play a lot > but i don't know how much how many hours or time i do it,statement,"или ты играешь в нее : я играю много > но я не знаю, сколько часов или времени я играю  >"
+1926,i love hearing what you have to say : EMPTY > i'm reading pete the cat,opinion,"Мне нравится слышать, что ты говоришь:"
